@@ -1,0 +1,1156 @@
+START_DATE*,END_DATE*,CATEGORY*,START*,STOP*,MILES*,PURPOSE*
+01-01-2016 21:11,01-01-2016 21:17,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain
+02-01-2016 21:11,02-01-2016 21:17,Business,Fort Pierce,Fort Pierce,5,
+03-01-2016 21:11,03-01-2016 21:17,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies
+04-01-2016 21:11,04-01-2016 21:17,Business,Fort Pierce,Fort Pierce,4.7,Meeting
+05-01-2016 21:11,05-01-2016 21:17,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit
+06-01-2016 21:11,06-01-2016 21:17,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain
+07-01-2016 21:11,07-01-2016 21:17,Business,West Palm Beach,Palm Beach,7.1,Meeting
+08-01-2016 21:11,08-01-2016 21:17,Business,Cary,Cary,0.8,Meeting
+09-01-2016 21:11,09-01-2016 21:17,Business,Cary,Morrisville,8.3,Meeting
+10-01-2016 21:11,10-01-2016 21:17,Business,Jamaica,New York,16.5,Customer Visit
+11-01-2016 21:11,11-01-2016 21:17,Business,New York,Queens,10.8,Meeting
+12-01-2016 21:11,12-01-2016 21:17,Business,Elmhurst,New York,7.5,Meeting
+13-01-2016 21:11,13-01-2016 21:17,Business,Midtown,East Harlem,6.2,Meeting
+14-01-2016 21:11,14-01-2016 21:17,Business,East Harlem,NoMad,6.4,Temporary Site
+15-01-2016 21:11,15-01-2016 21:17,Business,Flatiron District,Midtown,1.6,Errand/Supplies
+16-01-2016 21:11,16-01-2016 21:17,Business,Midtown,Midtown East,1.7,Meal/Entertain
+17-01-2016 21:11,17-01-2016 21:17,Business,Midtown East,Midtown,1.9,Meal/Entertain
+18-01-2016 21:11,18-01-2016 21:17,Business,Midtown,Hudson Square,1.9,Meal/Entertain
+19-01-2016 21:11,19-01-2016 21:17,Business,Hudson Square,Lower Manhattan,4,Meal/Entertain
+20-01-2016 21:11,20-01-2016 21:17,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies
+21-01-2016 21:11,21-01-2016 21:17,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit
+22-01-2016 21:11,22-01-2016 21:17,Business,Hell's Kitchen,Midtown,2,Errand/Supplies
+23-01-2016 21:11,23-01-2016 21:17,Business,New York,Queens County,15.1,Meeting
+24-01-2016 21:11,24-01-2016 21:17,Business,Downtown,Gulfton,11.2,Meeting
+25-01-2016 21:11,25-01-2016 21:17,Business,Gulfton,Downtown,11.8,Meeting
+26-01-2016 21:11,26-01-2016 21:17,Business,Houston,Houston,21.9,Customer Visit
+27-01-2016 21:11,27-01-2016 21:17,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies
+28-01-2016 21:11,28-01-2016 21:17,Business,Morrisville,Cary,8,Errand/Supplies
+29-01-2016 21:11,29-01-2016 21:17,Business,Cary,Durham,10.4,Meal/Entertain
+30-01-2016 21:11,30-01-2016 21:17,Business,Durham,Cary,10.4,Meal/Entertain
+31-01-2016 21:11,31-01-2016 21:17,Business,Cary,Cary,4.8,Meal/Entertain
+01-02-2016 21:11,01-02-2016 21:17,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain
+02-02-2016 21:11,02-02-2016 21:17,Business,Whitebridge,Lake Wellingborough,7.2,
+03-02-2016 21:11,03-02-2016 21:17,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site
+04-02-2016 21:11,04-02-2016 21:17,Business,Cary,Raleigh,17.1,Meeting
+05-02-2016 21:11,05-02-2016 21:17,Business,Fayetteville Street,Umstead,15.1,Meeting
+06-02-2016 21:11,06-02-2016 21:17,Business,Raleigh,Cary,40.2,Customer Visit
+07-02-2016 21:11,07-02-2016 21:17,Business,Cary,Cary,1.6,Errand/Supplies
+08-02-2016 21:11,08-02-2016 21:17,Business,Cary,Cary,2.4,Meal/Entertain
+09-02-2016 21:11,09-02-2016 21:17,Business,Cary,Cary,1,Meal/Entertain
+10-02-2016 21:11,10-02-2016 21:17,Business,Whitebridge,Hazelwood,2,Meal/Entertain
+11-02-2016 21:11,11-02-2016 21:17,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies
+12-02-2016 21:11,12-02-2016 21:17,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies
+13-02-2016 21:11,13-02-2016 21:17,Business,Cary,Cary,1.4,Errand/Supplies
+14-02-2016 21:11,14-02-2016 21:17,Business,Cary,Cary,0.5,Errand/Supplies
+15-02-2016 21:11,15-02-2016 21:17,Business,Cary,Cary,1.8,Meeting
+16-02-2016 21:11,16-02-2016 21:17,Business,Cary,Raleigh,18.7,Customer Visit
+17-02-2016 21:11,17-02-2016 21:17,Business,Fairmont,Meredith Townes,3.4,Customer Visit
+18-02-2016 21:11,18-02-2016 21:17,Business,Raleigh,Raleigh,2.7,Customer Visit
+19-02-2016 21:11,19-02-2016 21:17,Business,Raleigh,Cary,12.9,Customer Visit
+20-02-2016 21:11,20-02-2016 21:17,Business,Cary,Raleigh,19,Temporary Site
+21-02-2016 21:11,21-02-2016 21:17,Business,Meredith Townes,Leesville Hollow,14.7,Meeting
+22-02-2016 21:11,22-02-2016 21:17,Business,Raleigh,Cary,15.7,Meeting
+23-02-2016 21:11,23-02-2016 21:17,Business,Cary,Cary,4.6,Customer Visit
+24-02-2016 21:11,24-02-2016 21:17,Business,Cary,Cary,5.2,Meeting
+25-02-2016 21:11,25-02-2016 21:17,Business,Cary,Durham,10.4,Meeting
+26-02-2016 21:11,26-02-2016 21:17,Business,Durham,Cary,10.1,Meeting
+27-02-2016 21:11,27-02-2016 21:17,Business,Cary,Apex,5.8,Errand/Supplies
+28-02-2016 21:11,28-02-2016 21:17,Business,Apex,Cary,5.5,Meal/Entertain
+29-02-2016 21:11,29-02-2016 21:17,Business,Cary,Apex,5.7,Errand/Supplies
+01-03-2016 21:11,01-03-2016 21:17,Business,Apex,Cary,5.7,Customer Visit
+02-03-2016 21:11,02-03-2016 21:17,Business,Cary,Chapel Hill,19.4,Customer Visit
+03-03-2016 21:11,03-03-2016 21:17,Business,Chapel Hill,Cary,23.3,Customer Visit
+04-03-2016 21:11,04-03-2016 21:17,Business,Northwoods,Whitebridge,3.9,Meal/Entertain
+05-03-2016 21:11,05-03-2016 21:17,Business,Whitebridge,Williamsburg Manor,8.3,Meeting
+06-03-2016 21:11,06-03-2016 21:17,Business,Cary,Cary,6,Errand/Supplies
+07-03-2016 21:11,07-03-2016 21:17,Business,Cary,Cary,1.6,Errand/Supplies
+08-03-2016 21:11,08-03-2016 21:17,Business,Cary,Morrisville,5.2,Errand/Supplies
+09-03-2016 21:11,09-03-2016 21:17,Business,Morrisville,Cary,9.7,Meal/Entertain
+10-03-2016 21:11,10-03-2016 21:17,Business,Cary,Cary,1.6,Meal/Entertain
+11-03-2016 21:11,11-03-2016 21:17,Business,Cary,Cary,1.1,Meal/Entertain
+12-03-2016 21:11,12-03-2016 21:17,Business,Cary,Cary,1.6,Meal/Entertain
+13-03-2016 21:11,13-03-2016 21:17,Business,Whitebridge,Macgregor Downs,9,Meeting
+14-03-2016 21:11,14-03-2016 21:17,Business,Cary,Cary,7.7,Meeting
+15-03-2016 21:11,15-03-2016 21:17,Business,Cary,Durham,10.4,Meeting
+16-03-2016 21:11,16-03-2016 21:17,Business,Durham,Cary,10.4,Meeting
+17-03-2016 21:11,17-03-2016 21:17,Business,Cary,Raleigh,11.4,Between Offices
+18-03-2016 21:11,18-03-2016 21:17,Business,Raleigh,Cary,9,Errand/Supplies
+19-03-2016 21:11,19-03-2016 21:17,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain
+20-03-2016 21:11,20-03-2016 21:17,Business,Cary,Apex,5.6,Errand/Supplies
+21-03-2016 21:11,21-03-2016 21:17,Business,Apex,Cary,5.7,Customer Visit
+22-03-2016 21:11,22-03-2016 21:17,Business,Cary,Morrisville,6.1,Temporary Site
+23-03-2016 21:11,23-03-2016 21:17,Business,Morrisville,Cary,6.1,Meeting
+24-03-2016 21:11,24-03-2016 21:17,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain
+25-03-2016 21:11,25-03-2016 21:17,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain
+26-03-2016 21:11,26-03-2016 21:17,Personal,Whitebridge,Northwoods,5.3,
+27-03-2016 21:11,27-03-2016 21:17,Personal,Northwoods,Tanglewood,3,
+28-03-2016 21:11,28-03-2016 21:17,Personal,Tanglewood,Preston,5.1,
+29-03-2016 21:11,29-03-2016 21:17,Personal,Preston,Whitebridge,1.5,
+30-03-2016 21:11,30-03-2016 21:17,Business,Cary,Morrisville,6.1,
+31-03-2016 21:11,31-03-2016 21:17,Business,Morrisville,Cary,6.1,Meal/Entertain
+01-04-2016 21:11,01-04-2016 21:17,Business,Cary,Raleigh,17.3,Meal/Entertain
+02-04-2016 21:11,02-04-2016 21:17,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain
+03-04-2016 21:11,03-04-2016 21:17,Business,Raleigh,Morrisville,13.5,Temporary Site
+04-04-2016 21:11,04-04-2016 21:17,Business,Morrisville,Cary,6.1,Temporary Site
+05-04-2016 21:11,05-04-2016 21:17,Business,Cary,Durham,8.5,Temporary Site
+06-04-2016 21:11,06-04-2016 21:17,Business,Durham,Morrisville,2.6,Temporary Site
+07-04-2016 21:11,07-04-2016 21:17,Business,Morrisville,Raleigh,17,Customer Visit
+08-04-2016 21:11,08-04-2016 21:17,Business,Raleigh,Cary,18,Meeting
+09-04-2016 21:11,09-04-2016 21:17,Business,Cary,Morrisville,8.4,Meeting
+10-04-2016 21:11,10-04-2016 21:17,Business,Morrisville,Cary,11.5,Customer Visit
+11-04-2016 21:11,11-04-2016 21:17,Business,Cary,Morrisville,8.9,Meeting
+12-04-2016 21:11,12-04-2016 21:17,Personal,East Elmhurst,Jackson Heights,2.7,
+13-04-2016 21:11,13-04-2016 21:17,Personal,Jackson Heights,East Elmhurst,1.8,
+14-04-2016 21:11,14-04-2016 21:17,Business,East Elmhurst,New York,8.1,Meeting
+15-04-2016 21:11,15-04-2016 21:17,Business,Midtown,Midtown West,2,Meeting
+16-04-2016 21:11,16-04-2016 21:17,Business,New York,Long Island City,13,Meeting
+17-04-2016 21:11,17-04-2016 21:17,Business,Long Island City,Jamaica,13.9,Meeting
+18-04-2016 21:11,18-04-2016 21:17,Business,Katunayaka,Unknown Location,43.7,Customer Visit
+19-04-2016 21:11,19-04-2016 21:17,Business,Unknown Location,Colombo,14.1,
+20-04-2016 21:11,20-04-2016 21:17,Business,Colombo,Colombo,2.6,
+21-04-2016 21:11,21-04-2016 21:17,Business,Colombo,Colombo,4.5,
+22-04-2016 21:11,22-04-2016 21:17,Business,Colombo,Colombo,1.7,
+23-04-2016 21:11,23-04-2016 21:17,Business,Colombo,Colombo,1.8,Temporary Site
+24-04-2016 21:11,24-04-2016 21:17,Business,Colombo,Colombo,6,
+25-04-2016 21:11,25-04-2016 21:17,Business,Colombo,Nugegoda,1.1,Meal/Entertain
+26-04-2016 21:11,26-04-2016 21:17,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies
+27-04-2016 21:11,27-04-2016 21:17,Business,Unknown Location,Colombo,14.7,Temporary Site
+28-04-2016 21:11,28-04-2016 21:17,Business,Colombo,Colombo,1.7,Meal/Entertain
+29-04-2016 21:11,29-04-2016 21:17,Business,Colombo,Katunayaka,21.4,Temporary Site
+30-04-2016 21:11,30-04-2016 21:17,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies
+01-05-2016 21:11,01-05-2016 21:17,Business,Unknown Location,Unknown Location,23.5,Temporary Site
+02-05-2016 21:11,02-05-2016 21:17,Business,Unknown Location,Islamabad,12.7,Temporary Site
+03-05-2016 21:11,03-05-2016 21:17,Business,Islamabad,Unknown Location,6,Temporary Site
+04-05-2016 21:11,04-05-2016 21:17,Business,Unknown Location,Islamabad,5.2,Customer Visit
+05-05-2016 21:11,05-05-2016 21:17,Business,Islamabad,Unknown Location,10,Meeting
+06-05-2016 21:11,06-05-2016 21:17,Business,Unknown Location,Unknown Location,18.3,Meeting
+07-05-2016 21:11,07-05-2016 21:17,Business,Unknown Location,Unknown Location,11.2,Meeting
+08-05-2016 21:11,08-05-2016 21:17,Business,Unknown Location,Islamabad,7.6,Meeting
+09-05-2016 21:11,09-05-2016 21:17,Personal,Islamabad,Islamabad,1.5,
+10-05-2016 21:11,10-05-2016 21:17,Personal,Islamabad,Islamabad,1,
+11-05-2016 21:11,11-05-2016 21:17,Business,Islamabad,Unknown Location,7.3,Temporary Site
+12-05-2016 21:11,12-05-2016 21:17,Business,Unknown Location,Islamabad,3.5,
+13-05-2016 21:11,13-05-2016 21:17,Business,Islamabad,Islamabad,4.2,
+14-05-2016 21:11,14-05-2016 21:17,Personal,Islamabad,Unknown Location,13.6,
+15-05-2016 21:11,15-05-2016 21:17,Personal,Unknown Location,Unknown Location,2.5,
+16-05-2016 21:11,16-05-2016 21:17,Personal,Unknown Location,Islamabad,14.4,
+17-05-2016 21:11,17-05-2016 21:17,Personal,Islamabad,Islamabad,3,
+18-05-2016 21:11,18-05-2016 21:17,Personal,Islamabad,Islamabad,1.5,
+19-05-2016 21:11,19-05-2016 21:17,Business,Islamabad,R?walpindi,18.4,
+20-05-2016 21:11,20-05-2016 21:17,Business,R?walpindi,R?walpindi,23.1,Meeting
+21-05-2016 21:11,21-05-2016 21:17,Personal,R?walpindi,Unknown Location,16.5,
+22-05-2016 21:11,22-05-2016 21:17,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
+23-05-2016 21:11,23-05-2016 21:17,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies
+24-05-2016 21:11,24-05-2016 21:17,Business,Unknown Location,Islamabad,14.5,
+25-05-2016 21:11,25-05-2016 21:17,Business,Unknown Location,Islamabad,2.4,Errand/Supplies
+26-05-2016 21:11,26-05-2016 21:17,Business,Islamabad,Islamabad,4.6,Errand/Supplies
+27-05-2016 21:11,27-05-2016 21:17,Business,Islamabad,Unknown Location,8.8,Meal/Entertain
+28-05-2016 21:11,28-05-2016 21:17,Business,Unknown Location,Unknown Location,8.3,Temporary Site
+29-05-2016 21:11,29-05-2016 21:17,Business,Unknown Location,Unknown Location,22.7,Temporary Site
+30-05-2016 21:11,30-05-2016 21:17,Business,Unknown Location,Islamabad,13,Temporary Site
+31-05-2016 21:11,31-05-2016 21:17,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site
+01-06-2016 21:11,01-06-2016 21:17,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain
+02-06-2016 21:11,02-06-2016 21:17,Business,Unknown Location,Unknown Location,9.7,
+03-06-2016 21:11,03-06-2016 21:17,Business,Unknown Location,R?walpindi,20,Meeting
+04-06-2016 21:11,04-06-2016 21:17,Business,Morrisville,Cary,8.1,Customer Visit
+05-06-2016 21:11,05-06-2016 21:17,Business,Whitebridge,Preston,1.5,
+06-06-2016 21:11,06-06-2016 21:17,Business,Preston,Whitebridge,1.7,Errand/Supplies
+07-06-2016 21:11,07-06-2016 21:17,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies
+08-06-2016 21:11,08-06-2016 21:17,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies
+09-06-2016 21:11,09-06-2016 21:17,Business,Whitebridge,Tanglewood,6,Meal/Entertain
+10-06-2016 21:11,10-06-2016 21:17,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain
+11-06-2016 21:11,11-06-2016 21:17,Business,Whitebridge,Westpark Place,6.3,
+12-06-2016 21:11,12-06-2016 21:17,Personal,Westpark Place,Whitebridge,1.7,
+13-06-2016 21:11,13-06-2016 21:17,Business,Cary,Durham,10.6,Meeting
+14-06-2016 21:11,14-06-2016 21:17,Business,Durham,Cary,9.9,Meeting
+15-06-2016 21:11,15-06-2016 21:17,Personal,Whitebridge,Westpark Place,1.9,
+16-06-2016 21:11,16-06-2016 21:17,Personal,Westpark Place,Hazelwood,4.2,
+17-06-2016 21:11,17-06-2016 21:17,Personal,Hazelwood,Whitebridge,2,
+18-06-2016 21:11,18-06-2016 21:17,Business,Whitebridge,Waverly Place,7.7,Meeting
+19-06-2016 21:11,19-06-2016 21:17,Business,Waverly Place,Whitebridge,6.8,Meeting
+20-06-2016 21:11,20-06-2016 21:17,Personal,Whitebridge,Westpark Place,2.1,
+21-06-2016 21:11,21-06-2016 21:17,Business,Cary,Apex,3.8,Meeting
+22-06-2016 21:11,22-06-2016 21:17,Business,Apex,Cary,5.6,Meeting
+23-06-2016 21:11,23-06-2016 21:17,Business,Whitebridge,Hazelwood,2.6,
+24-06-2016 21:11,24-06-2016 21:17,Business,Hazelwood,Whitebridge,6.6,Customer Visit
+25-06-2016 21:11,25-06-2016 21:17,Business,Whitebridge,Wayne Ridge,8,Meal/Entertain
+26-06-2016 21:11,26-06-2016 21:17,Business,Wayne Ridge,Whitebridge,8,Meeting
+27-06-2016 21:11,27-06-2016 21:17,Personal,Whitebridge,Westpark Place,2.2,
+28-06-2016 21:11,28-06-2016 21:17,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies
+29-06-2016 21:11,29-06-2016 21:17,Business,Whitebridge,Northwoods,5.2,Meal/Entertain
+30-06-2016 21:11,30-06-2016 21:17,Business,Cary,Raleigh,7.6,Customer Visit
+01-07-2016 21:11,01-07-2016 21:17,Business,Raleigh,Cary,17.3,Meeting
+02-07-2016 21:11,02-07-2016 21:17,Business,Cary,Durham,9.9,Meeting
+03-07-2016 21:11,03-07-2016 21:17,Business,Durham,Cary,9.9,Customer Visit
+04-07-2016 21:11,04-07-2016 21:17,Business,Cary,Durham,10.4,Meeting
+05-07-2016 21:11,05-07-2016 21:17,Business,Durham,Cary,10.9,Meeting
+06-07-2016 21:11,06-07-2016 21:17,Business,Cary,Raleigh,15.7,Customer Visit
+07-07-2016 21:11,07-07-2016 21:17,Business,Raleigh,Raleigh,4.9,Meal/Entertain
+08-07-2016 21:11,08-07-2016 21:17,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies
+09-07-2016 21:11,09-07-2016 21:17,Business,Raleigh,Cary,13.5,Meeting
+10-07-2016 21:11,10-07-2016 21:17,Business,Cary,Morrisville,1.9,Temporary Site
+11-07-2016 21:11,11-07-2016 21:17,Business,Morrisville,Cary,2,Meal/Entertain
+12-07-2016 21:11,12-07-2016 21:17,Business,Cary,Morrisville,6.5,Meal/Entertain
+13-07-2016 21:11,13-07-2016 21:17,Personal,Weston,Weston,4.2,
+14-07-2016 21:11,14-07-2016 21:17,Personal,Morrisville,Cary,3.5,
+15-07-2016 21:11,15-07-2016 21:17,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain
+16-07-2016 21:11,16-07-2016 21:17,Business,Cary,Morrisville,7.8,Meal/Entertain
+17-07-2016 21:11,17-07-2016 21:17,Business,Morrisville,Cary,3.9,Meal/Entertain
+18-07-2016 21:11,18-07-2016 21:17,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies
+19-07-2016 21:11,19-07-2016 21:17,Business,Cary,Raleigh,12.4,Customer Visit
+20-07-2016 21:11,20-07-2016 21:17,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit
+21-07-2016 21:11,21-07-2016 21:17,Business,Meredith Townes,Leesville Hollow,9.4,Meeting
+22-07-2016 21:11,22-07-2016 21:17,Business,Raleigh,Cary,11.9,Between Offices
+23-07-2016 21:11,23-07-2016 21:17,Business,Whitebridge,Waverly Place,7.2,Between Offices
+24-07-2016 21:11,24-07-2016 21:17,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain
+25-07-2016 21:11,25-07-2016 21:17,Personal,Whitebridge,Whitebridge,1.6,
+26-07-2016 21:11,26-07-2016 21:17,Business,Cary,Morrisville,8.4,Meeting
+27-07-2016 21:11,27-07-2016 21:17,Business,East Austin,West University,12.8,Meeting
+28-07-2016 21:11,28-07-2016 21:17,Business,West University,South Congress,2.3,
+29-07-2016 21:11,29-07-2016 21:17,Business,South Congress,Arts District,1.6,
+30-07-2016 21:11,30-07-2016 21:17,Business,The Drag,Congress Ave District,2,Meal/Entertain
+31-07-2016 21:11,31-07-2016 21:17,Business,Congress Ave District,Downtown,0.8,
+01-08-2016 21:11,01-08-2016 21:17,Business,Downtown,Red River District,1.2,
+02-08-2016 21:11,02-08-2016 21:17,Business,Red River District,Downtown,1,
+03-08-2016 21:11,03-08-2016 21:17,Business,South Congress,The Drag,2.1,
+04-08-2016 21:11,04-08-2016 21:17,Business,The Drag,South Congress,2.2,
+05-08-2016 21:11,05-08-2016 21:17,Personal,South Congress,The Drag,1.9,
+06-08-2016 21:11,06-08-2016 21:17,Business,The Drag,Convention Center District,5.7,Meal/Entertain
+07-08-2016 21:11,07-08-2016 21:17,Business,South Congress,North Austin,8.4,Meal/Entertain
+08-08-2016 21:11,08-08-2016 21:17,Business,Georgian Acres,The Drag,6.2,Meal/Entertain
+09-08-2016 21:11,09-08-2016 21:17,Business,The Drag,North Austin,10.5,Meal/Entertain
+10-08-2016 21:11,10-08-2016 21:17,Business,North Austin,Coxville,7.2,Meal/Entertain
+11-08-2016 21:11,11-08-2016 21:17,Business,Coxville,The Drag,12.5,
+12-08-2016 21:11,12-08-2016 21:17,Business,The Drag,South Congress,2,Errand/Supplies
+13-08-2016 21:11,13-08-2016 21:17,Business,South Congress,The Drag,2.7,
+14-08-2016 21:11,14-08-2016 21:17,Business,The Drag,Convention Center District,2,Meal/Entertain
+15-08-2016 21:11,15-08-2016 21:17,Business,Downtown,The Drag,2.8,Meal/Entertain
+16-08-2016 21:11,16-08-2016 21:17,Business,The Drag,Congress Ave District,1.7,Meal/Entertain
+17-08-2016 21:11,17-08-2016 21:17,Business,Convention Center District,West University,2,
+18-08-2016 21:11,18-08-2016 21:17,Business,West University,Congress Ave District,2.1,Meal/Entertain
+19-08-2016 21:11,19-08-2016 21:17,Personal,Downtown,The Drag,1.7,
+20-08-2016 21:11,20-08-2016 21:17,Business,Austin,Katy,136,Customer Visit
+21-08-2016 21:11,21-08-2016 21:17,Business,Katy,Houston,30.2,Meeting
+22-08-2016 21:11,22-08-2016 21:17,Business,Midtown,Alief,15.5,Meal/Entertain
+23-08-2016 21:11,23-08-2016 21:17,Personal,Houston,Houston,4.9,
+24-08-2016 21:11,24-08-2016 21:17,Personal,Houston,Houston,12.6,
+25-08-2016 21:11,25-08-2016 21:17,Personal,Sharpstown,Midtown,10.4,
+26-08-2016 21:11,26-08-2016 21:17,Business,Midtown,Midtown,1.1,Meal/Entertain
+27-08-2016 21:11,27-08-2016 21:17,Business,Midtown,Midtown,1.1,Meal/Entertain
+28-08-2016 21:11,28-08-2016 21:17,Business,Midtown,Sharpstown,13.2,Meeting
+29-08-2016 21:11,29-08-2016 21:17,Business,Sharpstown,Sharpstown,1,Errand/Supplies
+30-08-2016 21:11,30-08-2016 21:17,Business,Sharpstown,Midtown,9.2,Customer Visit
+31-08-2016 21:11,31-08-2016 21:17,Business,Midtown,Sharpstown,9.4,Meal/Entertain
+01-09-2016 21:11,01-09-2016 21:17,Business,Houston,Sugar Land,12,Customer Visit
+02-09-2016 21:11,02-09-2016 21:17,Business,Sugar Land,Houston,35.1,Customer Visit
+03-09-2016 21:11,03-09-2016 21:17,Business,Houston,Galveston,36.5,Meal/Entertain
+04-09-2016 21:11,04-09-2016 21:17,Business,Galveston,Port Bolivar,3.1,Meal/Entertain
+05-09-2016 21:11,05-09-2016 21:17,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies
+06-09-2016 21:11,06-09-2016 21:17,Business,Port Bolivar,Port Bolivar,1.2,
+07-09-2016 21:11,07-09-2016 21:17,Business,Port Bolivar,Galveston,7.5,Meeting
+08-09-2016 21:11,08-09-2016 21:17,Business,Galveston,Houston,57,Customer Visit
+09-09-2016 21:11,09-09-2016 21:17,Business,Midtown,Washington Avenue,5.9,Meeting
+10-09-2016 21:11,10-09-2016 21:17,Business,Washington Avenue,Midtown,6.2,Meeting
+11-09-2016 21:11,11-09-2016 21:17,Business,Midtown,Sharpstown,10.4,
+12-09-2016 21:11,12-09-2016 21:17,Personal,Sharpstown,Briar Meadow,1.2,
+13-09-2016 21:11,13-09-2016 21:17,Business,Briar Meadow,Midtown,9.6,Customer Visit
+14-09-2016 21:11,14-09-2016 21:17,Personal,Midtown,Downtown,1,
+15-09-2016 21:11,15-09-2016 21:17,Business,Downtown,Midtown,0.9,Meal/Entertain
+16-09-2016 21:11,16-09-2016 21:17,Business,Midtown,Sharpstown,8.8,
+17-09-2016 21:11,17-09-2016 21:17,Business,Sharpstown,Midtown,25.6,Meal/Entertain
+18-09-2016 21:11,18-09-2016 21:17,Business,Midtown,Greater Greenspoint,23,Meal/Entertain
+19-09-2016 21:11,19-09-2016 21:17,Personal,Morrisville,Cary,8.1,
+20-09-2016 21:11,20-09-2016 21:17,Personal,Whitebridge,Whitebridge,1.4,
+21-09-2016 21:11,21-09-2016 21:17,Personal,Whitebridge,Preston,1.7,
+22-09-2016 21:11,22-09-2016 21:17,Personal,Preston,Whitebridge,1.6,
+23-09-2016 21:11,23-09-2016 21:17,Personal,Whitebridge,Westpark Place,2,
+24-09-2016 21:11,24-09-2016 21:17,Business,Westpark Place,Whitebridge,2.2,
+25-09-2016 21:11,25-09-2016 21:17,Business,Cary,Latta,144,Customer Visit
+26-09-2016 21:11,26-09-2016 21:17,Business,Latta,Jacksonville,310.3,Customer Visit
+27-09-2016 21:11,27-09-2016 21:17,Business,Jacksonville,Kissimmee,201,Meeting
+28-09-2016 21:11,28-09-2016 21:17,Personal,Couples Glen,Isles of Buena Vista,6.7,
+29-09-2016 21:11,29-09-2016 21:17,Personal,Kissimmee,Orlando,8.8,
+30-09-2016 21:11,30-09-2016 21:17,Personal,Lake Reams,Lake Reams,1.2,
+01-10-2016 21:11,01-10-2016 21:17,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies
+02-10-2016 21:11,02-10-2016 21:17,Business,Orlando,Kissimmee,6.6,Meal/Entertain
+03-10-2016 21:11,03-10-2016 21:17,Business,Kissimmee,Orlando,6.1,Customer Visit
+04-10-2016 21:11,04-10-2016 21:17,Personal,Orlando,Orlando,6.9,
+05-10-2016 21:11,05-10-2016 21:17,Personal,Orlando,Kissimmee,7.3,
+06-10-2016 21:11,06-10-2016 21:17,Personal,Kissimmee,Orlando,3.6,
+07-10-2016 21:11,07-10-2016 21:17,Personal,Couples Glen,Vista East,27.2,
+08-10-2016 21:11,08-10-2016 21:17,Personal,Orlando,Kissimmee,25.7,
+09-10-2016 21:11,09-10-2016 21:17,Personal,Kissimmee,Orlando,13.6,
+10-10-2016 21:11,10-10-2016 21:17,Personal,Sand Lake Commons,Sky Lake,6.2,
+11-10-2016 21:11,11-10-2016 21:17,Personal,Sky Lake,Sand Lake Commons,6,
+12-10-2016 21:11,12-10-2016 21:17,Personal,Orlando,Kissimmee,13.8,
+13-10-2016 21:11,13-10-2016 21:17,Business,Orlando,Kissimmee,28.8,Meal/Entertain
+14-10-2016 21:11,14-10-2016 21:17,Business,Kissimmee,Orlando,16.1,Temporary Site
+15-10-2016 21:11,15-10-2016 21:17,Business,Orlando,Kissimmee,16.4,Meal/Entertain
+16-10-2016 21:11,16-10-2016 21:17,Business,Kissimmee,Kissimmee,11,Meeting
+17-10-2016 21:11,17-10-2016 21:17,Business,Kissimmee,Orlando,15.5,Customer Visit
+18-10-2016 21:11,18-10-2016 21:17,Business,Orlando,Kissimmee,20.3,Meeting
+19-10-2016 21:11,19-10-2016 21:17,Personal,Kissimmee,Kissimmee,0.7,
+20-10-2016 21:11,20-10-2016 21:17,Personal,Kissimmee,Kissimmee,5.5,
+21-10-2016 21:11,21-10-2016 21:17,Personal,Kissimmee,Kissimmee,5.1,
+22-10-2016 21:11,22-10-2016 21:17,Business,Kissimmee,Daytona Beach,77.3,Customer Visit
+23-10-2016 21:11,23-10-2016 21:17,Business,Daytona Beach,Jacksonville,80.5,Customer Visit
+24-10-2016 21:11,24-10-2016 21:17,Business,Jacksonville,Ridgeland,174.2,Customer Visit
+25-10-2016 21:11,25-10-2016 21:17,Business,Ridgeland,Florence,144,Meeting
+26-10-2016 21:11,26-10-2016 21:17,Business,Florence,Cary,159.3,Meeting
+27-10-2016 21:11,27-10-2016 21:17,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain
+28-10-2016 21:11,28-10-2016 21:17,Business,Wayne Ridge,Whitebridge,8,Meal/Entertain
+29-10-2016 21:11,29-10-2016 21:17,Business,Cary,Morrisville,6.1,Meal/Entertain
+30-10-2016 21:11,30-10-2016 21:17,Business,Morrisville,Cary,6.1,Errand/Supplies
+31-10-2016 21:11,31-10-2016 21:17,Business,Cary,Durham,10.5,Meeting
+01-11-2016 21:11,01-11-2016 21:17,Business,Durham,Cary,8.7,Meal/Entertain
+02-11-2016 21:11,02-11-2016 21:17,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies
+03-11-2016 21:11,03-11-2016 21:17,Business,Cary,Raleigh,19.1,Meeting
+04-11-2016 21:11,04-11-2016 21:17,Business,Raleigh,Cary,18.6,Meeting
+05-11-2016 21:11,05-11-2016 21:17,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies
+06-11-2016 21:11,06-11-2016 21:17,Business,Cary,Raleigh,8.9,Meeting
+07-11-2016 21:11,07-11-2016 21:17,Business,Meredith,Cedar Hill,7.5,Customer Visit
+08-11-2016 21:11,08-11-2016 21:17,Business,Raleigh,Morrisville,15.9,Meeting
+09-11-2016 21:11,09-11-2016 21:17,Business,Morrisville,Cary,6.5,Meal/Entertain
+10-11-2016 21:11,10-11-2016 21:17,Business,Cary,Holly Springs,15.3,Temporary Site
+11-11-2016 21:11,11-11-2016 21:17,Business,Holly Springs,Cary,13.7,Temporary Site
+12-11-2016 21:11,12-11-2016 21:17,Business,Cary,Raleigh,11.9,Temporary Site
+13-11-2016 21:11,13-11-2016 21:17,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies
+14-11-2016 21:11,14-11-2016 21:17,Business,Raleigh,Cary,15.2,Meeting
+15-11-2016 21:11,15-11-2016 21:17,Business,Cary,Morrisville,6,Errand/Supplies
+16-11-2016 21:11,16-11-2016 21:17,Business,Morrisville,Cary,6.1,Meal/Entertain
+17-11-2016 21:11,17-11-2016 21:17,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain
+18-11-2016 21:11,18-11-2016 21:17,Business,Wayne Ridge,Whitebridge,8,Meal/Entertain
+19-11-2016 21:11,19-11-2016 21:17,Business,Cary,Raleigh,13.6,Meeting
+20-11-2016 21:11,20-11-2016 21:17,Business,Raleigh,Cary,22.5,Meeting
+21-11-2016 21:11,21-11-2016 21:17,Business,Cary,Durham,10.4,Meeting
+22-11-2016 21:11,22-11-2016 21:17,Business,Durham,Cary,10,Meeting
+23-11-2016 21:11,23-11-2016 21:17,Business,Whitebridge,Tanglewood,6,Meal/Entertain
+24-11-2016 21:11,24-11-2016 21:17,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain
+25-11-2016 21:11,25-11-2016 21:17,Business,Cary,Morrisville,3.1,Errand/Supplies
+26-11-2016 21:11,26-11-2016 21:17,Business,Chessington,Chessington,1.9,Errand/Supplies
+27-11-2016 21:11,27-11-2016 21:17,Business,Morrisville,Cary,4.2,Between Offices
+28-11-2016 21:11,28-11-2016 21:17,Business,Whitebridge,Burtrose,4.9,Between Offices
+29-11-2016 21:11,29-11-2016 21:17,Business,Burtrose,Whitebridge,4.8,Between Offices
+30-11-2016 21:11,30-11-2016 21:17,Business,Cary,Raleigh,12.4,Customer Visit
+01-12-2016 21:11,01-12-2016 21:17,Business,Raleigh,Cary,32.8,Customer Visit
+02-12-2016 21:11,02-12-2016 21:17,Business,Morrisville,Cary,5.5,Customer Visit
+03-12-2016 21:11,03-12-2016 21:17,Business,Cary,Durham,9.9,Meeting
+04-12-2016 21:11,04-12-2016 21:17,Business,Durham,Cary,10,Meeting
+05-12-2016 21:11,05-12-2016 21:17,Business,Cary,Durham,14.2,Customer Visit
+06-12-2016 21:11,06-12-2016 21:17,Business,Durham,Cary,18.2,Meeting
+07-12-2016 21:11,07-12-2016 21:17,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain
+08-12-2016 21:11,08-12-2016 21:17,Business,Waverly Place,Whitebridge,6.8,
+09-12-2016 21:11,09-12-2016 21:17,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain
+10-12-2016 21:11,10-12-2016 21:17,Business,Westpark Place,Whitebridge,2.3,
+11-12-2016 21:11,11-12-2016 21:17,Business,Whitebridge,Tanglewood,6.2,Between Offices
+12-12-2016 21:11,12-12-2016 21:17,Business,Tanglewood,Parkway,7.5,Meeting
+13-12-2016 21:11,13-12-2016 21:17,Business,Parkway,Whitebridge,3.1,Errand/Supplies
+14-12-2016 21:11,14-12-2016 21:17,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies
+15-12-2016 21:11,15-12-2016 21:17,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain
+16-12-2016 21:11,16-12-2016 21:17,Business,Morrisville,Cary,2.5,Meal/Entertain
+17-12-2016 21:11,17-12-2016 21:17,Business,Cary,Morrisville,8.7,Meal/Entertain
+18-12-2016 21:11,18-12-2016 21:17,Business,Mcvan,Capitol One,14.5,Errand/Supplies
+19-12-2016 21:11,19-12-2016 21:17,Business,Capitol One,University District,4.5,Meal/Entertain
+20-12-2016 21:11,20-12-2016 21:17,Business,University District,Capitol One,5,Meal/Entertain
+21-12-2016 21:11,21-12-2016 21:17,Business,Seattle,Redmond,14.2,Meal/Entertain
+22-12-2016 21:11,22-12-2016 21:17,Business,Redmond,Bellevue,2.9,Errand/Supplies
+23-12-2016 21:11,23-12-2016 21:17,Business,Bellevue,Seattle,12.9,Meeting
+24-12-2016 21:11,24-12-2016 21:17,Business,Capitol One,Mcvan,14.4,Meeting
+25-12-2016 21:11,25-12-2016 21:17,Business,Chapel Hill,Morrisville,17,Meeting
+26-12-2016 21:11,26-12-2016 21:17,Business,Morrisville,Cary,7.9,Customer Visit
+27-12-2016 21:11,27-12-2016 21:17,Business,Cary,Morrisville,8.4,Customer Visit
+28-12-2016 21:11,28-12-2016 21:17,Business,San Francisco,Palo Alto,20.5,Between Offices
+29-12-2016 21:11,29-12-2016 21:17,Business,Palo Alto,Sunnyvale,9.8,Customer Visit
+30-12-2016 21:11,30-12-2016 21:17,Business,Sunnyvale,Newark,17.6,Customer Visit
+31-12-2016 21:11,31-12-2016 21:17,Business,Newark,Menlo Park,9.3,Customer Visit
+01-01-2017 21:11,01-01-2017 21:17,Business,Menlo Park,Newark,7.9,Customer Visit
+02-01-2017 21:11,02-01-2017 21:17,Business,Newark,San Francisco,25.6,Meeting
+03-01-2017 21:11,03-01-2017 21:17,Business,Morrisville,Cary,8.1,Meeting
+04-01-2017 21:11,04-01-2017 21:17,Business,Cary,Morrisville,3.1,Meal/Entertain
+05-01-2017 21:11,05-01-2017 21:17,Business,Morrisville,Cary,3.1,Meal/Entertain
+06-01-2017 21:11,06-01-2017 21:17,Business,Whitebridge,Preston,2.8,Errand/Supplies
+07-01-2017 21:11,07-01-2017 21:17,Business,Preston,Westpark Place,2.7,Errand/Supplies
+08-01-2017 21:11,08-01-2017 21:17,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies
+09-01-2017 21:11,09-01-2017 21:17,Business,Cary,Morrisville,8.4,Customer Visit
+10-01-2017 21:11,10-01-2017 21:17,Business,Morrisville,Raleigh,7.6,Customer Visit
+11-01-2017 21:11,11-01-2017 21:17,Business,Old City,Parkway Museums,2.9,Meal/Entertain
+12-01-2017 21:11,12-01-2017 21:17,Business,Old City,Hog Island,11.2,Meeting
+13-01-2017 21:11,13-01-2017 21:17,Business,Morrisville,Cary,8.2,Meal/Entertain
+14-01-2017 21:11,14-01-2017 21:17,Business,Cary,Morrisville,3,Meal/Entertain
+15-01-2017 21:11,15-01-2017 21:17,Business,Morrisville,Cary,2.5,Meal/Entertain
+16-01-2017 21:11,16-01-2017 21:17,Business,Whitebridge,Savon Height,3.6,Meal/Entertain
+17-01-2017 21:11,17-01-2017 21:17,Business,Savon Height,Whitebridge,3.6,Errand/Supplies
+18-01-2017 21:11,18-01-2017 21:17,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies
+19-01-2017 21:11,19-01-2017 21:17,Business,Savon Height,Kilarney Woods,1.2,
+20-01-2017 21:11,20-01-2017 21:17,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies
+21-01-2017 21:11,21-01-2017 21:17,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies
+22-01-2017 21:11,22-01-2017 21:17,Business,Cary,Morrisville,6.1,Meal/Entertain
+23-01-2017 21:11,23-01-2017 21:17,Business,Morrisville,Cary,11.3,Customer Visit
+24-01-2017 21:11,24-01-2017 21:17,Business,Cary,Raleigh,14.9,Meeting
+25-01-2017 21:11,25-01-2017 21:17,Business,Raleigh,Cary,14,Meeting
+26-01-2017 21:11,26-01-2017 21:17,Business,Westpark Place,Whitebridge,1.8,
+27-01-2017 21:11,27-01-2017 21:17,Business,Cary,Morrisville,6.7,Customer Visit
+28-01-2017 21:11,28-01-2017 21:17,Business,Morrisville,Cary,9.6,Meeting
+29-01-2017 21:11,29-01-2017 21:17,Business,Cary,Durham,10.4,Meeting
+30-01-2017 21:11,30-01-2017 21:17,Business,Durham,Cary,9.9,Meeting
+31-01-2017 21:11,31-01-2017 21:17,Business,Cary,Morrisville,6,Meal/Entertain
+01-02-2017 21:11,01-02-2017 21:17,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies
+02-02-2017 21:11,02-02-2017 21:17,Business,Morrisville,Cary,3.1,Errand/Supplies
+03-02-2017 21:11,03-02-2017 21:17,Business,Huntington Woods,Weston,1.7,Errand/Supplies
+04-02-2017 21:11,04-02-2017 21:17,Business,Morrisville,Cary,4,Between Offices
+05-02-2017 21:11,05-02-2017 21:17,Business,Whitebridge,Savon Height,7.8,Customer Visit
+06-02-2017 21:11,06-02-2017 21:17,Business,Cary,Morrisville,7.8,Customer Visit
+07-02-2017 21:11,07-02-2017 21:17,Business,Weston,Weston,3.8,Meal/Entertain
+08-02-2017 21:11,08-02-2017 21:17,Business,Morrisville,Cary,2.5,Meal/Entertain
+09-02-2017 21:11,09-02-2017 21:17,Business,Cary,Durham,9.9,Meeting
+10-02-2017 21:11,10-02-2017 21:17,Business,Durham,Cary,9.9,Meeting
+11-02-2017 21:11,11-02-2017 21:17,Business,Whitebridge,Hazelwood,3,Errand/Supplies
+12-02-2017 21:11,12-02-2017 21:17,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies
+13-02-2017 21:11,13-02-2017 21:17,Business,Cary,Apex,5.7,Meal/Entertain
+14-02-2017 21:11,14-02-2017 21:17,Business,Apex,Cary,7.2,Meal/Entertain
+15-02-2017 21:11,15-02-2017 21:17,Business,Cary,Durham,10.4,Meeting
+16-02-2017 21:11,16-02-2017 21:17,Business,Durham,Cary,9.9,Meeting
+17-02-2017 21:11,17-02-2017 21:17,Business,Cary,Durham,10.4,Meeting
+18-02-2017 21:11,18-02-2017 21:17,Business,Durham,Cary,9.9,Meeting
+19-02-2017 21:11,19-02-2017 21:17,Business,Cary,Morrisville,8.7,Meal/Entertain
+20-02-2017 21:11,20-02-2017 21:17,Business,Jamaica,New York,22.3,Errand/Supplies
+21-02-2017 21:11,21-02-2017 21:17,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain
+22-02-2017 21:11,22-02-2017 21:17,Business,Medical Centre,Tudor City,0.7,Errand/Supplies
+23-02-2017 21:11,23-02-2017 21:17,Business,Rose Hill,Soho,2.5,Meal/Entertain
+24-02-2017 21:11,24-02-2017 21:17,Business,Soho,Tribeca,0.5,Errand/Supplies
+25-02-2017 21:11,25-02-2017 21:17,Business,Tribeca,Financial District,0.9,Errand/Supplies
+26-02-2017 21:11,26-02-2017 21:17,Business,Financial District,Kips Bay,4.8,Errand/Supplies
+27-02-2017 21:11,27-02-2017 21:17,Business,New York,Jamaica,16.3,Meeting
+28-02-2017 21:11,28-02-2017 21:17,Business,Cary,Durham,10.4,Meeting
+01-03-2017 21:11,01-03-2017 21:17,Business,Durham,Cary,9.9,Meeting
+02-03-2017 21:11,02-03-2017 21:17,Business,Cary,Morrisville,3.7,Errand/Supplies
+03-03-2017 21:11,03-03-2017 21:17,Business,Morrisville,Cary,4.6,Meal/Entertain
+04-03-2017 21:11,04-03-2017 21:17,Business,Westpark Place,Whitebridge,1.7,
+05-03-2017 21:11,05-03-2017 21:17,Business,Cary,Durham,10.4,Meeting
+06-03-2017 21:11,06-03-2017 21:17,Business,Durham,Cary,9.9,Meeting
+07-03-2017 21:11,07-03-2017 21:17,Business,Cary,Morrisville,2.5,Meal/Entertain
+08-03-2017 21:11,08-03-2017 21:17,Business,Morrisville,Cary,4.3,Errand/Supplies
+09-03-2017 21:11,09-03-2017 21:17,Business,Parkway,Whitebridge,2.8,Errand/Supplies
+10-03-2017 21:11,10-03-2017 21:17,Business,Cary,Morrisville,8.4,Meal/Entertain
+11-03-2017 21:11,11-03-2017 21:17,Business,Oakland,Emeryville,13.2,Meeting
+12-03-2017 21:11,12-03-2017 21:17,Business,Emeryville,Berkeley,3.9,Meal/Entertain
+13-03-2017 21:11,13-03-2017 21:17,Business,Berkeley,Oakland,5.1,Meal/Entertain
+14-03-2017 21:11,14-03-2017 21:17,Business,Oakland,Unknown Location,5.2,Customer Visit
+15-03-2017 21:11,15-03-2017 21:17,Business,Emeryville,San Francisco,9.8,
+16-03-2017 21:11,16-03-2017 21:17,Business,San Francisco,Emeryville,11.6,Meeting
+17-03-2017 21:11,17-03-2017 21:17,Business,Emeryville,Oakland,5.1,Meeting
+18-03-2017 21:11,18-03-2017 21:17,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies
+19-03-2017 21:11,19-03-2017 21:17,Business,Kenner,New Orleans,12.4,Between Offices
+20-03-2017 21:11,20-03-2017 21:17,Business,CBD,Lower Garden District,1.9,Between Offices
+21-03-2017 21:11,21-03-2017 21:17,Business,Lower Garden District,Lakeview,6.4,Customer Visit
+22-03-2017 21:11,22-03-2017 21:17,Personal,Lakeview,Storyville,5.5,
+23-03-2017 21:11,23-03-2017 21:17,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain
+24-03-2017 21:11,24-03-2017 21:17,Business,New Orleans,Metairie,14.5,
+25-03-2017 21:11,25-03-2017 21:17,Business,Metairie,Kenner,2.7,
+26-03-2017 21:11,26-03-2017 21:17,Business,Kenner,New Orleans,15,
+27-03-2017 21:11,27-03-2017 21:17,Business,New Orleans,Kenner,12.9,
+28-03-2017 21:11,28-03-2017 21:17,Business,Kenner,New Orleans,13.6,
+29-03-2017 21:11,29-03-2017 21:17,Business,New Orleans,Kenner,12.2,
+30-03-2017 21:11,30-03-2017 21:17,Business,Morrisville,Cary,8.7,
+31-03-2017 21:11,31-03-2017 21:17,Business,Cary,Raleigh,6,
+01-04-2017 21:11,01-04-2017 21:17,Business,Raleigh,Cary,5.9,
+02-04-2017 21:11,02-04-2017 21:17,Business,Cary,Raleigh,19.3,
+03-04-2017 21:11,03-04-2017 21:17,Business,Raleigh,Cary,16.6,Meal/Entertain
+04-04-2017 21:11,04-04-2017 21:17,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain
+05-04-2017 21:11,05-04-2017 21:17,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain
+06-04-2017 21:11,06-04-2017 21:17,Business,Cary,Raleigh,8.6,Errand/Supplies
+07-04-2017 21:11,07-04-2017 21:17,Business,Raleigh,Morrisville,9,Errand/Supplies
+08-04-2017 21:11,08-04-2017 21:17,Business,Morrisville,Cary,3.1,Errand/Supplies
+09-04-2017 21:11,09-04-2017 21:17,Business,Cary,Morrisville,8.4,Temporary Site
+10-04-2017 21:11,10-04-2017 21:17,Business,Kenner,New Orleans,12.8,
+11-04-2017 21:11,11-04-2017 21:17,Business,CBD,Bywater,4.5,
+12-04-2017 21:11,12-04-2017 21:17,Business,New Orleans,Chalmette,11.8,Between Offices
+13-04-2017 21:11,13-04-2017 21:17,Business,Chalmette,Arabi,1.1,Errand/Supplies
+14-04-2017 21:11,14-04-2017 21:17,Business,Arabi,Metairie,17,Meal/Entertain
+15-04-2017 21:11,15-04-2017 21:17,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting
+16-04-2017 21:11,16-04-2017 21:17,Business,Metairie,New Orleans,15.5,Meeting
+17-04-2017 21:11,17-04-2017 21:17,Business,Storyville,Marigny,1.6,
+18-04-2017 21:11,18-04-2017 21:17,Business,Marigny,Storyville,1.5,
+19-04-2017 21:11,19-04-2017 21:17,Business,New Orleans,Kenner,12.6,Meeting
+20-04-2017 21:11,20-04-2017 21:17,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,
+21-04-2017 21:11,21-04-2017 21:17,Business,Kenner,Kenner,2.2,
+22-04-2017 21:11,22-04-2017 21:17,Business,Kenner,New Orleans,13,
+23-04-2017 21:11,23-04-2017 21:17,Business,New Orleans,Covington,46.9,
+24-04-2017 21:11,24-04-2017 21:17,Business,Covington,Covington,2.5,
+25-04-2017 21:11,25-04-2017 21:17,Business,Covington,Covington,8.6,
+26-04-2017 21:11,26-04-2017 21:17,Business,Covington,Covington,5.2,
+27-04-2017 21:11,27-04-2017 21:17,Business,Covington,Covington,7.6,
+28-04-2017 21:11,28-04-2017 21:17,Business,Covington,Covington,1.8,
+29-04-2017 21:11,29-04-2017 21:17,Business,Covington,Mandeville,4.7,
+30-04-2017 21:11,30-04-2017 21:17,Business,Mandeville,Mandeville,2.8,
+01-05-2017 21:11,01-05-2017 21:17,Business,Mandeville,Metairie,30,
+02-05-2017 21:11,02-05-2017 21:17,Business,Metairie,Kenner,4.4,
+03-05-2017 21:11,03-05-2017 21:17,Business,Jamestown Court,Jamestown Court,1,
+04-05-2017 21:11,04-05-2017 21:17,Business,Morrisville,Cary,8.2,Customer Visit
+05-05-2017 21:11,05-05-2017 21:17,Business,Cary,Durham,10.4,Meeting
+06-05-2017 21:11,06-05-2017 21:17,Business,Durham,Cary,9.9,Meeting
+07-05-2017 21:11,07-05-2017 21:17,Business,Durham,Cary,9.9,Meeting
+08-05-2017 21:11,08-05-2017 21:17,Business,Cary,Morrisville,7.3,
+09-05-2017 21:11,09-05-2017 21:17,Business,Morrisville,Cary,7.4,
+10-05-2017 21:11,10-05-2017 21:17,Business,Whitebridge,Westpark Place,1.6,
+11-05-2017 21:11,11-05-2017 21:17,Business,Westpark Place,Whitebridge,1.8,
+12-05-2017 21:11,12-05-2017 21:17,Business,Cary,Durham,10.4,Meeting
+13-05-2017 21:11,13-05-2017 21:17,Business,Durham,Cary,9.9,Meeting
+14-05-2017 21:11,14-05-2017 21:17,Business,Cary,Durham,9.9,Meeting
+15-05-2017 21:11,15-05-2017 21:17,Business,Durham,Cary,9.9,Meeting
+16-05-2017 21:11,16-05-2017 21:17,Business,Cary,Raleigh,13.3,Meeting
+17-05-2017 21:11,17-05-2017 21:17,Business,Raleigh,Cary,11.3,Meeting
+18-05-2017 21:11,18-05-2017 21:17,Business,Cary,Durham,10.5,Meeting
+19-05-2017 21:11,19-05-2017 21:17,Business,Durham,Cary,9.9,Meeting
+20-05-2017 21:11,20-05-2017 21:17,Business,Cary,Durham,10.1,Meeting
+21-05-2017 21:11,21-05-2017 21:17,Business,Durham,Cary,9.9,Meeting
+22-05-2017 21:11,22-05-2017 21:17,Business,Cary,Morrisville,3.1,Errand/Supplies
+23-05-2017 21:11,23-05-2017 21:17,Business,Morrisville,Cary,3.1,Errand/Supplies
+24-05-2017 21:11,24-05-2017 21:17,Business,Cary,Durham,9.9,Meeting
+25-05-2017 21:11,25-05-2017 21:17,Business,Durham,Cary,9.9,Meeting
+26-05-2017 21:11,26-05-2017 21:17,Business,Whitebridge,Summerwinds,8.8,Meeting
+27-05-2017 21:11,27-05-2017 21:17,Business,Summerwinds,Whitebridge,8.7,Temporary Site
+28-05-2017 21:11,28-05-2017 21:17,Business,Cary,Durham,11.8,Meeting
+29-05-2017 21:11,29-05-2017 21:17,Business,Parkwood,Parkwood,1.2,Errand/Supplies
+30-05-2017 21:11,30-05-2017 21:17,Business,Durham,Cary,9.9,Meeting
+31-05-2017 21:11,31-05-2017 21:17,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies
+01-06-2017 21:11,01-06-2017 21:17,Business,Cary,Durham,9.9,
+02-06-2017 21:11,02-06-2017 21:17,Business,Durham,Morrisville,8.6,
+03-06-2017 21:11,03-06-2017 21:17,Business,Morrisville,Cary,6.3,Meal/Entertain
+04-06-2017 21:11,04-06-2017 21:17,Business,Cary,Durham,9.9,Meeting
+05-06-2017 21:11,05-06-2017 21:17,Business,Durham,Cary,9.9,
+06-06-2017 21:11,06-06-2017 21:17,Business,Cary,Morrisville,3.3,Meal/Entertain
+07-06-2017 21:11,07-06-2017 21:17,Business,Morrisville,Cary,3.1,Customer Visit
+08-06-2017 21:11,08-06-2017 21:17,Business,Cary,Morrisville,7.9,Temporary Site
+09-06-2017 21:11,09-06-2017 21:17,Business,Morrisville,Cary,8.9,
+10-06-2017 21:11,10-06-2017 21:17,Business,Kenner,New Orleans,12.8,
+11-06-2017 21:11,11-06-2017 21:17,Business,CBD,Pontchartrain Beach,7.7,
+12-06-2017 21:11,12-06-2017 21:17,Business,Pontchartrain Beach,CBD,7,
+13-06-2017 21:11,13-06-2017 21:17,Business,New Orleans,Metairie,12.5,
+14-06-2017 21:11,14-06-2017 21:17,Business,Kenner,New Orleans,13.2,
+15-06-2017 21:11,15-06-2017 21:17,Business,New Orleans,Kenner,13,
+16-06-2017 21:11,16-06-2017 21:17,Business,Kenner,Metairie,4.9,
+17-06-2017 21:11,17-06-2017 21:17,Business,Metairie,New Orleans,8.5,
+18-06-2017 21:11,18-06-2017 21:17,Business,CBD,St Thomas,1.3,
+19-06-2017 21:11,19-06-2017 21:17,Business,St Thomas,CBD,1.8,
+20-06-2017 21:11,20-06-2017 21:17,Business,New Orleans,Kenner,13.6,
+21-06-2017 21:11,21-06-2017 21:17,Business,Kenner,New Orleans,13.4,
+22-06-2017 21:11,22-06-2017 21:17,Business,New Orleans,Kenner,12.3,
+23-06-2017 21:11,23-06-2017 21:17,Personal,Kenner,Kenner,1.4,
+24-06-2017 21:11,24-06-2017 21:17,Personal,Morrisville,Cary,8.7,
+25-06-2017 21:11,25-06-2017 21:17,Personal,Cary,Morrisville,23.5,
+26-06-2017 21:11,26-06-2017 21:17,Personal,Morrisville,Morrisville,2.2,
+27-06-2017 21:11,27-06-2017 21:17,Personal,Morrisville,Cary,4.4,
+28-06-2017 21:11,28-06-2017 21:17,Personal,Cary,Morrisville,3.3,
+29-06-2017 21:11,29-06-2017 21:17,Business,Morrisville,Morrisville,11.8,Errand/Supplies
+30-06-2017 21:11,30-06-2017 21:17,Business,Morrisville,Banner Elk,195.3,
+01-07-2017 21:11,01-07-2017 21:17,Personal,Banner Elk,Banner Elk,8.3,
+02-07-2017 21:11,02-07-2017 21:17,Personal,Banner Elk,Banner Elk,3.2,
+03-07-2017 21:11,03-07-2017 21:17,Personal,Banner Elk,Elk Park,22.4,
+04-07-2017 21:11,04-07-2017 21:17,Personal,Elk Park,Banner Elk,12.2,
+05-07-2017 21:11,05-07-2017 21:17,Personal,Banner Elk,Banner Elk,4.5,
+06-07-2017 21:11,06-07-2017 21:17,Personal,Banner Elk,Newland,28.1,
+07-07-2017 21:11,07-07-2017 21:17,Personal,Newland,Newland,3.8,
+08-07-2017 21:11,08-07-2017 21:17,Personal,Newland,Boone,41.9,
+09-07-2017 21:11,09-07-2017 21:17,Personal,Boone,Banner Elk,23.8,
+10-07-2017 21:11,10-07-2017 21:17,Personal,Banner Elk,Banner Elk,13,
+11-07-2017 21:11,11-07-2017 21:17,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies
+12-07-2017 21:11,12-07-2017 21:17,Personal,Banner Elk,Boone,15.1,Charity ($)
+13-07-2017 21:11,13-07-2017 21:17,Personal,Boone,Cary,180.2,Commute
+14-07-2017 21:11,14-07-2017 21:17,Personal,Cary,Morrisville,4.1,Moving
+15-07-2017 21:11,15-07-2017 21:17,Personal,Morrisville,Cary,6.1,Moving
+16-07-2017 21:11,16-07-2017 21:17,Personal,Northwoods,Preston,3.3,Moving
+17-07-2017 21:11,17-07-2017 21:17,Personal,Preston,Whitebridge,4.7,Moving
+18-07-2017 21:11,18-07-2017 21:17,Business,Cary,Apex,7.2,Meeting
+19-07-2017 21:11,19-07-2017 21:17,Business,Apex,Cary,5.5,Meal/Entertain
+20-07-2017 21:11,20-07-2017 21:17,Business,Cary,Morrisville,3.3,Meal/Entertain
+21-07-2017 21:11,21-07-2017 21:17,Business,Hazelwood,Weston,0.9,Errand/Supplies
+22-07-2017 21:11,22-07-2017 21:17,Business,Morrisville,Cary,3.8,Meal/Entertain
+23-07-2017 21:11,23-07-2017 21:17,Business,Whitebridge,Stonewater,6.4,Customer Visit
+24-07-2017 21:11,24-07-2017 21:17,Business,Stonewater,Lexington Park at Amberly,3,Meeting
+25-07-2017 21:11,25-07-2017 21:17,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain
+26-07-2017 21:11,26-07-2017 21:17,Business,Whitebridge,Chessington,3.9,Errand/Supplies
+27-07-2017 21:11,27-07-2017 21:17,Personal,Chessington,Whitebridge,4.8,
+28-07-2017 21:11,28-07-2017 21:17,Personal,Whitebridge,Edgehill Farms,2.8,
+29-07-2017 21:11,29-07-2017 21:17,Personal,Edgehill Farms,Preston,1.4,
+30-07-2017 21:11,30-07-2017 21:17,Personal,Preston,Whitebridge,1.4,
+31-07-2017 21:11,31-07-2017 21:17,Business,Whitebridge,Edgehill Farms,2.7,
+01-08-2017 21:11,01-08-2017 21:17,Business,Edgehill Farms,Burtrose,2.3,
+02-08-2017 21:11,02-08-2017 21:17,Business,Cary,Morrisville,3.7,
+03-08-2017 21:11,03-08-2017 21:17,Business,Morrisville,Cary,2.9,
+04-08-2017 21:11,04-08-2017 21:17,Business,Cary,Morrisville,3.8,
+05-08-2017 21:11,05-08-2017 21:17,Business,Morrisville,Cary,5.1,
+06-08-2017 21:11,06-08-2017 21:17,Business,Hazelwood,Lexington Park at Amberly,9.1,
+07-08-2017 21:11,07-08-2017 21:17,Business,Cary,Durham,8,
+08-08-2017 21:11,08-08-2017 21:17,Business,Durham,Cary,9.9,Meeting
+09-08-2017 21:11,09-08-2017 21:17,Business,Cary,Morrisville,6.1,Meal/Entertain
+10-08-2017 21:11,10-08-2017 21:17,Business,Morrisville,Cary,12.2,
+11-08-2017 21:11,11-08-2017 21:17,Business,Wayne Ridge,Whitebridge,8,
+12-08-2017 21:11,12-08-2017 21:17,Business,Cary,Morrisville,4,
+13-08-2017 21:11,13-08-2017 21:17,Business,Morrisville,Cary,9.5,
+14-08-2017 21:11,14-08-2017 21:17,Business,Cary,Morrisville,3,
+15-08-2017 21:11,15-08-2017 21:17,Business,Morrisville,Cary,6.3,
+16-08-2017 21:11,16-08-2017 21:17,Business,Cary,Durham,10.4,Meeting
+17-08-2017 21:11,17-08-2017 21:17,Business,Durham,Cary,9.9,Meeting
+18-08-2017 21:11,18-08-2017 21:17,Business,Whitebridge,Parkway,1.5,
+19-08-2017 21:11,19-08-2017 21:17,Business,Cary,Morrisville,4.9,
+20-08-2017 21:11,20-08-2017 21:17,Business,Morrisville,Cary,7.9,
+21-08-2017 21:11,21-08-2017 21:17,Business,Parkway,Whitebridge,1.7,
+22-08-2017 21:11,22-08-2017 21:17,Business,Whitebridge,Westpark Place,2.2,
+23-08-2017 21:11,23-08-2017 21:17,Business,Westpark Place,Whitebridge,2.1,
+24-08-2017 21:11,24-08-2017 21:17,Business,Cary,Morrisville,2.5,Meal/Entertain
+25-08-2017 21:11,25-08-2017 21:17,Business,Morrisville,Cary,2.5,Meal/Entertain
+26-08-2017 21:11,26-08-2017 21:17,Business,Cary,Morrisville,2.8,
+27-08-2017 21:11,27-08-2017 21:17,Business,Morrisville,Raleigh,14.7,
+28-08-2017 21:11,28-08-2017 21:17,Business,Raleigh,Morrisville,14.6,
+29-08-2017 21:11,29-08-2017 21:17,Business,Morrisville,Cary,2.3,
+30-08-2017 21:11,30-08-2017 21:17,Business,Whitebridge,Westpark Place,2.2,
+31-08-2017 21:11,31-08-2017 21:17,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain
+01-09-2017 21:11,01-09-2017 21:17,Business,Cary,Durham,14,
+02-09-2017 21:11,02-09-2017 21:17,Business,Durham,Cary,13.3,
+03-09-2017 21:11,03-09-2017 21:17,Business,Westpark Place,Whitebridge,1.8,
+04-09-2017 21:11,04-09-2017 21:17,Business,Whitebridge,Arlington Park at Amberly,6.2,
+05-09-2017 21:11,05-09-2017 21:17,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,
+06-09-2017 21:11,06-09-2017 21:17,Business,Lexington Park at Amberly,Westpark Place,1.9,
+07-09-2017 21:11,07-09-2017 21:17,Business,Cary,Apex,6.9,
+08-09-2017 21:11,08-09-2017 21:17,Business,Apex,Cary,4.6,
+09-09-2017 21:11,09-09-2017 21:17,Business,Whitebridge,Edgehill Farms,2.8,
+10-09-2017 21:11,10-09-2017 21:17,Business,Cary,Morrisville,9.1,
+11-09-2017 21:11,11-09-2017 21:17,Business,Morrisville,Cary,8.1,
+12-09-2017 21:11,12-09-2017 21:17,Business,Cary,Morrisville,8.4,Meeting
+13-09-2017 21:11,13-09-2017 21:17,Business,Arlington,Washington,4.9,
+14-09-2017 21:11,14-09-2017 21:17,Business,Kalorama Triangle,K Street,1,
+15-09-2017 21:11,15-09-2017 21:17,Business,K Street,Kalorama Triangle,1,
+16-09-2017 21:11,16-09-2017 21:17,Business,West End,Northwest Rectangle,2,
+17-09-2017 21:11,17-09-2017 21:17,Business,K Street,Kalorama Triangle,1.1,
+18-09-2017 21:11,18-09-2017 21:17,Business,Kalorama Triangle,Downtown,1.5,
+19-09-2017 21:11,19-09-2017 21:17,Business,Connecticut Avenue,Kalorama Triangle,1.3,
+20-09-2017 21:11,20-09-2017 21:17,Business,Kalorama Triangle,Columbia Heights,1.8,
+21-09-2017 21:11,21-09-2017 21:17,Business,Columbia Heights,Kalorama Triangle,1.5,
+22-09-2017 21:11,22-09-2017 21:17,Business,Washington,Arlington,6.6,
+23-09-2017 21:11,23-09-2017 21:17,Business,Morrisville,Cary,8,
+24-09-2017 21:11,24-09-2017 21:17,Business,Whitebridge,Edgehill Farms,2.7,
+25-09-2017 21:11,25-09-2017 21:17,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
+26-09-2017 21:11,26-09-2017 21:17,Business,Cary,Morrisville,2.5,
+27-09-2017 21:11,27-09-2017 21:17,Business,Morrisville,Cary,2.5,Meal/Entertain
+28-09-2017 21:11,28-09-2017 21:17,Business,Whitebridge,Farmington Woods,5.2,
+29-09-2017 21:11,29-09-2017 21:17,Business,Farmington Woods,Edgehill Farms,4,
+30-09-2017 21:11,30-09-2017 21:17,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
+01-10-2017 21:11,01-10-2017 21:17,Business,Cary,Morrisville,4.8,
+02-10-2017 21:11,02-10-2017 21:17,Business,Morrisville,Cary,3.2,Customer Visit
+03-10-2017 21:11,03-10-2017 21:17,Business,Whitebridge,Waverly Place,6.9,
+04-10-2017 21:11,04-10-2017 21:17,Business,Cary,Raleigh,14.9,
+05-10-2017 21:11,05-10-2017 21:17,Business,Raleigh,Cary,17.4,
+06-10-2017 21:11,06-10-2017 21:17,Business,Cary,Durham,12.9,
+07-10-2017 21:11,07-10-2017 21:17,Business,Durham,Apex,15.3,
+08-10-2017 21:11,08-10-2017 21:17,Business,Apex,Apex,1,
+09-10-2017 21:11,09-10-2017 21:17,Business,Apex,Cary,6,
+10-10-2017 21:11,10-10-2017 21:17,Business,Whitebridge,Heritage Pines,2.2,
+11-10-2017 21:11,11-10-2017 21:17,Business,Heritage Pines,Edgehill Farms,4.4,
+12-10-2017 21:11,12-10-2017 21:17,Business,Edgehill Farms,Whitebridge,2.8,
+13-10-2017 21:11,13-10-2017 21:17,Business,Cary,Wake Forest,31.7,
+14-10-2017 21:11,14-10-2017 21:17,Business,Wake Forest,Cary,31.9,
+15-10-2017 21:11,15-10-2017 21:17,Business,Whitebridge,Westpark Place,1.9,
+16-10-2017 21:11,16-10-2017 21:17,Business,Westpark Place,Whitebridge,1.8,
+17-10-2017 21:11,17-10-2017 21:17,Business,Cary,Morrisville,8.4,Meeting
+18-10-2017 21:11,18-10-2017 21:17,Business,R?walpindi,Unknown Location,15.6,
+19-10-2017 21:11,19-10-2017 21:17,Business,Unknown Location,Unknown Location,14.1,
+20-10-2017 21:11,20-10-2017 21:17,Business,Unknown Location,Unknown Location,15.7,
+21-10-2017 21:11,21-10-2017 21:17,Business,Unknown Location,Unknown Location,25.9,Temporary Site
+22-10-2017 21:11,22-10-2017 21:17,Business,Unknown Location,Unknown Location,7.9,
+23-10-2017 21:11,23-10-2017 21:17,Business,Unknown Location,Unknown Location,2.7,
+24-10-2017 21:11,24-10-2017 21:17,Business,Unknown Location,Unknown Location,5.5,
+25-10-2017 21:11,25-10-2017 21:17,Business,Unknown Location,Islamabad,5.7,
+26-10-2017 21:11,26-10-2017 21:17,Business,Islamabad,Islamabad,1.2,
+27-10-2017 21:11,27-10-2017 21:17,Business,Islamabad,Unknown Location,5.7,Temporary Site
+28-10-2017 21:11,28-10-2017 21:17,Business,Unknown Location,Unknown Location,16.2,
+29-10-2017 21:11,29-10-2017 21:17,Business,Unknown Location,Unknown Location,2.6,
+30-10-2017 21:11,30-10-2017 21:17,Business,Unknown Location,Unknown Location,12.1,
+31-10-2017 21:11,31-10-2017 21:17,Business,Unknown Location,R?walpindi,1.4,
+01-11-2017 21:11,01-11-2017 21:17,Business,R?walpindi,Islamabad,6.4,
+02-11-2017 21:11,02-11-2017 21:17,Business,Islamabad,Unknown Location,7.3,
+03-11-2017 21:11,03-11-2017 21:17,Business,Unknown Location,Unknown Location,5.3,
+04-11-2017 21:11,04-11-2017 21:17,Business,Unknown Location,Unknown Location,5.5,
+05-11-2017 21:11,05-11-2017 21:17,Business,Unknown Location,Unknown Location,7.7,Temporary Site
+06-11-2017 21:11,06-11-2017 21:17,Business,Unknown Location,Unknown Location,7.6,Temporary Site
+07-11-2017 21:11,07-11-2017 21:17,Business,Unknown Location,Noorpur Shahan,7.6,
+08-11-2017 21:11,08-11-2017 21:17,Business,Noorpur Shahan,Islamabad,3.3,
+09-11-2017 21:11,09-11-2017 21:17,Business,Islamabad,R?walpindi,6.5,
+10-11-2017 21:11,10-11-2017 21:17,Business,R?walpindi,Unknown Location,2,
+11-11-2017 21:11,11-11-2017 21:17,Business,Unknown Location,Islamabad,5.7,
+12-11-2017 21:11,12-11-2017 21:17,Business,Islamabad,Islamabad,3.2,
+13-11-2017 21:11,13-11-2017 21:17,Business,Islamabad,Unknown Location,12.5,
+14-11-2017 21:11,14-11-2017 21:17,Business,Unknown Location,Unknown Location,7.6,Airport/Travel
+15-11-2017 21:11,15-11-2017 21:17,Business,Unknown Location,Unknown Location,7.7,
+16-11-2017 21:11,16-11-2017 21:17,Business,Unknown Location,Islamabad,12.2,
+17-11-2017 21:11,17-11-2017 21:17,Business,Islamabad,Islamabad,1.4,
+18-11-2017 21:11,18-11-2017 21:17,Business,Islamabad,Unknown Location,20.2,
+19-11-2017 21:11,19-11-2017 21:17,Business,Unknown Location,Islamabad,9.8,
+20-11-2017 21:11,20-11-2017 21:17,Business,Islamabad,Unknown Location,6.3,
+21-11-2017 21:11,21-11-2017 21:17,Business,Unknown Location,Islamabad,4.9,
+22-11-2017 21:11,22-11-2017 21:17,Business,Islamabad,Islamabad,1.5,
+23-11-2017 21:11,23-11-2017 21:17,Business,Islamabad,Unknown Location,10.9,
+24-11-2017 21:11,24-11-2017 21:17,Business,Unknown Location,Unknown Location,19,
+25-11-2017 21:11,25-11-2017 21:17,Business,Unknown Location,Unknown Location,19,
+26-11-2017 21:11,26-11-2017 21:17,Business,Unknown Location,R?walpindi,7.9,
+27-11-2017 21:11,27-11-2017 21:17,Business,R?walpindi,R?walpindi,4.1,
+28-11-2017 21:11,28-11-2017 21:17,Business,R?walpindi,Unknown Location,18.7,
+29-11-2017 21:11,29-11-2017 21:17,Business,Unknown Location,Noorpur Shahan,8.7,
+30-11-2017 21:11,30-11-2017 21:17,Business,Noorpur Shahan,Unknown Location,7.5,
+01-12-2017 21:11,01-12-2017 21:17,Business,Unknown Location,Noorpur Shahan,7.7,
+02-12-2017 21:11,02-12-2017 21:17,Business,Noorpur Shahan,Islamabad,4.4,
+03-12-2017 21:11,03-12-2017 21:17,Business,Islamabad,Unknown Location,5,
+04-12-2017 21:11,04-12-2017 21:17,Business,Unknown Location,Unknown Location,1.9,
+05-12-2017 21:11,05-12-2017 21:17,Business,Unknown Location,Unknown Location,7.9,
+06-12-2017 21:11,06-12-2017 21:17,Business,Unknown Location,Unknown Location,17.7,
+07-12-2017 21:11,07-12-2017 21:17,Business,Unknown Location,Unknown Location,25.2,
+08-12-2017 21:11,08-12-2017 21:17,Business,Unknown Location,Unknown Location,96.2,
+09-12-2017 21:11,09-12-2017 21:17,Business,Unknown Location,Unknown Location,35,
+10-12-2017 21:11,10-12-2017 21:17,Business,Unknown Location,Unknown Location,5.5,
+11-12-2017 21:11,11-12-2017 21:17,Business,Unknown Location,Unknown Location,50.4,
+12-12-2017 21:11,12-12-2017 21:17,Business,Unknown Location,Lahore,9.2,
+13-12-2017 21:11,13-12-2017 21:17,Business,Lahore,Unknown Location,7.3,
+14-12-2017 21:11,14-12-2017 21:17,Business,Unknown Location,Unknown Location,5,
+15-12-2017 21:11,15-12-2017 21:17,Business,Unknown Location,Unknown Location,3.8,
+16-12-2017 21:11,16-12-2017 21:17,Business,Unknown Location,Lahore,3.9,
+17-12-2017 21:11,17-12-2017 21:17,Business,Lahore,Lahore,7.4,
+18-12-2017 21:11,18-12-2017 21:17,Business,Lahore,Lahore,1.5,
+19-12-2017 21:11,19-12-2017 21:17,Business,Lahore,Unknown Location,7.9,
+20-12-2017 21:11,20-12-2017 21:17,Business,Unknown Location,Lahore,2.9,
+21-12-2017 21:11,21-12-2017 21:17,Business,Lahore,Lahore,3.4,
+22-12-2017 21:11,22-12-2017 21:17,Business,Lahore,Lahore,3.8,
+23-12-2017 21:11,23-12-2017 21:17,Business,Lahore,Unknown Location,5.9,
+24-12-2017 21:11,24-12-2017 21:17,Business,Unknown Location,Lahore,9.6,
+25-12-2017 21:11,25-12-2017 21:17,Business,Lahore,Lahore,7,
+26-12-2017 21:11,26-12-2017 21:17,Business,Lahore,Lahore,0.9,
+27-12-2017 21:11,27-12-2017 21:17,Business,Lahore,Unknown Location,86.6,
+28-12-2017 21:11,28-12-2017 21:17,Business,Unknown Location,Unknown Location,156.9,
+29-12-2017 21:11,29-12-2017 21:17,Business,Unknown Location,Noorpur Shahan,10.1,
+30-12-2017 21:11,30-12-2017 21:17,Business,Noorpur Shahan,Islamabad,6.2,
+31-12-2017 21:11,31-12-2017 21:17,Business,Islamabad,Islamabad,5.3,
+01-01-2018 21:11,01-01-2018 21:17,Business,Islamabad,Unknown Location,12.1,
+02-01-2018 21:11,02-01-2018 21:17,Business,Unknown Location,Islamabad,10.8,
+03-01-2018 21:11,03-01-2018 21:17,Business,Islamabad,Islamabad,4.3,
+04-01-2018 21:11,04-01-2018 21:17,Business,Islamabad,Islamabad,2.5,
+05-01-2018 21:11,05-01-2018 21:17,Business,Islamabad,Unknown Location,5.7,Temporary Site
+06-01-2018 21:11,06-01-2018 21:17,Business,Unknown Location,Islamabad,2.8,
+07-01-2018 21:11,07-01-2018 21:17,Business,Islamabad,Unknown Location,4,
+08-01-2018 21:11,08-01-2018 21:17,Business,Unknown Location,Islamabad,5.5,
+09-01-2018 21:11,09-01-2018 21:17,Business,Islamabad,Islamabad,2.6,
+10-01-2018 21:11,10-01-2018 21:17,Business,Unknown Location,Unknown Location,2.1,
+11-01-2018 21:11,11-01-2018 21:17,Business,Unknown Location,Islamabad,8.8,
+12-01-2018 21:11,12-01-2018 21:17,Business,Islamabad,Islamabad,4.4,
+13-01-2018 21:11,13-01-2018 21:17,Business,Islamabad,Unknown Location,5.3,
+14-01-2018 21:11,14-01-2018 21:17,Business,Unknown Location,Unknown Location,13,
+15-01-2018 21:11,15-01-2018 21:17,Business,Unknown Location,Islamabad,13,
+16-01-2018 21:11,16-01-2018 21:17,Business,Islamabad,Unknown Location,10.6,
+17-01-2018 21:11,17-01-2018 21:17,Business,Unknown Location,Unknown Location,2.2,
+18-01-2018 21:11,18-01-2018 21:17,Business,Unknown Location,Islamabad,9.2,
+19-01-2018 21:11,19-01-2018 21:17,Business,Unknown Location,Unknown Location,12.9,
+20-01-2018 21:11,20-01-2018 21:17,Business,Unknown Location,R?walpindi,17.2,
+21-01-2018 21:11,21-01-2018 21:17,Business,Unknown Location,Unknown Location,69.1,
+22-01-2018 21:11,22-01-2018 21:17,Business,Unknown Location,Unknown Location,2.8,
+23-01-2018 21:11,23-01-2018 21:17,Business,Unknown Location,Unknown Location,8.6,
+24-01-2018 21:11,24-01-2018 21:17,Business,Unknown Location,Unknown Location,9.8,
+25-01-2018 21:11,25-01-2018 21:17,Business,Unknown Location,Unknown Location,3.6,
+26-01-2018 21:11,26-01-2018 21:17,Business,Unknown Location,Unknown Location,1.7,
+27-01-2018 21:11,27-01-2018 21:17,Business,Unknown Location,Unknown Location,11.5,
+28-01-2018 21:11,28-01-2018 21:17,Business,Unknown Location,Unknown Location,0.7,
+29-01-2018 21:11,29-01-2018 21:17,Business,Unknown Location,Unknown Location,0.7,
+30-01-2018 21:11,30-01-2018 21:17,Business,Unknown Location,Unknown Location,0.9,
+31-01-2018 21:11,31-01-2018 21:17,Business,Unknown Location,Unknown Location,1.6,
+01-02-2018 21:11,01-02-2018 21:17,Business,Unknown Location,Unknown Location,9.4,
+02-02-2018 21:11,02-02-2018 21:17,Business,R?walpindi,Unknown Location,18.2,
+03-02-2018 21:11,03-02-2018 21:17,Business,Unknown Location,Islamabad,10.5,
+04-02-2018 21:11,04-02-2018 21:17,Business,Islamabad,Unknown Location,5.7,
+05-02-2018 21:11,05-02-2018 21:17,Business,Unknown Location,Unknown Location,18,
+06-02-2018 21:11,06-02-2018 21:17,Business,Unknown Location,Islamabad,18.3,
+07-02-2018 21:11,07-02-2018 21:17,Business,Islamabad,Unknown Location,16.5,
+08-02-2018 21:11,08-02-2018 21:17,Business,Unknown Location,R?walpindi,9.6,
+09-02-2018 21:11,09-02-2018 21:17,Business,Karachi,Karachi,2.9,
+10-02-2018 21:11,10-02-2018 21:17,Business,Karachi,Unknown Location,8.2,
+11-02-2018 21:11,11-02-2018 21:17,Business,Unknown Location,Unknown Location,2.4,
+12-02-2018 21:11,12-02-2018 21:17,Business,Unknown Location,Unknown Location,5.8,
+13-02-2018 21:11,13-02-2018 21:17,Business,Lahore,Lahore,9.8,
+14-02-2018 21:11,14-02-2018 21:17,Business,Lahore,Unknown Location,7.3,
+15-02-2018 21:11,15-02-2018 21:17,Business,Unknown Location,Unknown Location,195.6,
+16-02-2018 21:11,16-02-2018 21:17,Business,Islamabad,Unknown Location,20.5,
+17-02-2018 21:11,17-02-2018 21:17,Business,Unknown Location,Islamabad,12.6,
+18-02-2018 21:11,18-02-2018 21:17,Business,Islamabad,Islamabad,37.7,
+19-02-2018 21:11,19-02-2018 21:17,Business,Islamabad,Unknown Location,16.7,
+20-02-2018 21:11,20-02-2018 21:17,Business,Unknown Location,Islamabad,10.5,
+21-02-2018 21:11,21-02-2018 21:17,Business,Islamabad,Islamabad,2.8,
+22-02-2018 21:11,22-02-2018 21:17,Business,Islamabad,Islamabad,1.6,
+23-02-2018 21:11,23-02-2018 21:17,Business,Islamabad,Unknown Location,12.7,
+24-02-2018 21:11,24-02-2018 21:17,Business,Unknown Location,Unknown Location,28.6,
+25-02-2018 21:11,25-02-2018 21:17,Business,Unknown Location,Unknown Location,15.1,
+26-02-2018 21:11,26-02-2018 21:17,Business,Unknown Location,R?walpindi,17.9,
+27-02-2018 21:11,27-02-2018 21:17,Business,R?walpindi,Unknown Location,112.6,
+28-02-2018 21:11,28-02-2018 21:17,Business,Unknown Location,Unknown Location,18.4,
+01-03-2018 21:11,01-03-2018 21:17,Business,Unknown Location,Unknown Location,13.8,
+02-03-2018 21:11,02-03-2018 21:17,Business,Unknown Location,Lahore,33.2,
+03-03-2018 21:11,03-03-2018 21:17,Business,Lahore,Lahore,2.6,
+04-03-2018 21:11,04-03-2018 21:17,Business,Lahore,Unknown Location,5.8,
+05-03-2018 21:11,05-03-2018 21:17,Business,Unknown Location,Lahore,8.3,
+06-03-2018 21:11,06-03-2018 21:17,Business,Lahore,Lahore,2.4,
+07-03-2018 21:11,07-03-2018 21:17,Business,Lahore,Lahore,3.1,
+08-03-2018 21:11,08-03-2018 21:17,Business,Lahore,Lahore,6.1,
+09-03-2018 21:11,09-03-2018 21:17,Business,Karachi,Karachi,3.6,
+10-03-2018 21:11,10-03-2018 21:17,Business,Karachi,Unknown Location,8,
+11-03-2018 21:11,11-03-2018 21:17,Business,Unknown Location,Unknown Location,7.7,Temporary Site
+12-03-2018 21:11,12-03-2018 21:17,Business,Islamabad,Islamabad,1.7,
+13-03-2018 21:11,13-03-2018 21:17,Business,Islamabad,Unknown Location,9.5,
+14-03-2018 21:11,14-03-2018 21:17,Business,Unknown Location,R?walpindi,17.1,Meeting
+15-03-2018 21:11,15-03-2018 21:17,Business,R?walpindi,Unknown Location,18.4,
+16-03-2018 21:11,16-03-2018 21:17,Business,Unknown Location,Islamabad,9.8,
+17-03-2018 21:11,17-03-2018 21:17,Business,Islamabad,Islamabad,1,
+18-03-2018 21:11,18-03-2018 21:17,Business,Islamabad,Islamabad,0.7,
+19-03-2018 21:11,19-03-2018 21:17,Business,Islamabad,Islamabad,2.3,
+20-03-2018 21:11,20-03-2018 21:17,Business,Islamabad,Unknown Location,10.9,
+21-03-2018 21:11,21-03-2018 21:17,Business,Unknown Location,R?walpindi,12.7,
+22-03-2018 21:11,22-03-2018 21:17,Business,R?walpindi,Unknown Location,12.4,
+23-03-2018 21:11,23-03-2018 21:17,Business,Unknown Location,Unknown Location,3.8,
+24-03-2018 21:11,24-03-2018 21:17,Business,Unknown Location,R?walpindi,17,Meeting
+25-03-2018 21:11,25-03-2018 21:17,Business,Morrisville,Morrisville,6.2,
+26-03-2018 21:11,26-03-2018 21:17,Business,Morrisville,Cary,3.1,
+27-03-2018 21:11,27-03-2018 21:17,Business,Cary,Durham,10.5,Meeting
+28-03-2018 21:11,28-03-2018 21:17,Business,Durham,Morrisville,8.1,
+29-03-2018 21:11,29-03-2018 21:17,Business,Morrisville,Cary,3.1,
+30-03-2018 21:11,30-03-2018 21:17,Business,Whitebridge,Parkway,2.1,Meeting
+31-03-2018 21:11,31-03-2018 21:17,Business,Cary,Morrisville,4.3,
+01-04-2018 21:11,01-04-2018 21:17,Business,Morrisville,Cary,2.5,Meal/Entertain
+02-04-2018 21:11,02-04-2018 21:17,Business,Cary,Raleigh,20.6,
+03-04-2018 21:11,03-04-2018 21:17,Business,Raleigh,Cary,17.6,
+04-04-2018 21:11,04-04-2018 21:17,Business,Cary,Apex,5.6,
+05-04-2018 21:11,05-04-2018 21:17,Business,Apex,Apex,3.3,
+06-04-2018 21:11,06-04-2018 21:17,Business,Apex,Cary,5.3,
+07-04-2018 21:11,07-04-2018 21:17,Business,Whitebridge,Edgehill Farms,3.3,
+08-04-2018 21:11,08-04-2018 21:17,Business,Edgehill Farms,Whitebridge,3.3,
+09-04-2018 21:11,09-04-2018 21:17,Business,Cary,Morrisville,7.9,Temporary Site
+10-04-2018 21:11,10-04-2018 21:17,Business,Oakland,Emeryville,13,
+11-04-2018 21:11,11-04-2018 21:17,Business,Emeryville,Berkeley,3,
+12-04-2018 21:11,12-04-2018 21:17,Business,Berkeley,Emeryville,3,
+13-04-2018 21:11,13-04-2018 21:17,Business,Emeryville,Oakland,3.8,
+14-04-2018 21:11,14-04-2018 21:17,Business,Oakland,San Francisco,9.5,
+15-04-2018 21:11,15-04-2018 21:17,Business,SOMISSPO,French Quarter,1.7,
+16-04-2018 21:11,16-04-2018 21:17,Business,San Francisco,Berkeley,10.8,
+17-04-2018 21:11,17-04-2018 21:17,Business,West Berkeley,North Berkeley Hills,4.1,
+18-04-2018 21:11,18-04-2018 21:17,Business,North Berkeley Hills,Southside,2.2,
+19-04-2018 21:11,19-04-2018 21:17,Business,Berkeley,Emeryville,4.6,
+20-04-2018 21:11,20-04-2018 21:17,Business,Emeryville,Berkeley,3.1,
+21-04-2018 21:11,21-04-2018 21:17,Business,Berkeley,San Jose,47.7,
+22-04-2018 21:11,22-04-2018 21:17,Business,San Jose,Emeryville,44.6,
+23-04-2018 21:11,23-04-2018 21:17,Business,Emeryville,Oakland,13.2,
+24-04-2018 21:11,24-04-2018 21:17,Business,Morrisville,Cary,8.7,
+25-04-2018 21:11,25-04-2018 21:17,Business,Cary,Raleigh,17.2,
+26-04-2018 21:11,26-04-2018 21:17,Business,Raleigh,Cary,14,
+27-04-2018 21:11,27-04-2018 21:17,Business,Cary,Raleigh,28.1,
+28-04-2018 21:11,28-04-2018 21:17,Business,Raleigh,Cary,28.2,
+29-04-2018 21:11,29-04-2018 21:17,Business,Cary,Morrisville,3.1,Meal/Entertain
+30-04-2018 21:11,30-04-2018 21:17,Business,Morrisville,Cary,3.1,Customer Visit
+01-05-2018 21:11,01-05-2018 21:17,Business,Cary,Durham,16.4,
+02-05-2018 21:11,02-05-2018 21:17,Business,Durham,Morrisville,15.4,
+03-05-2018 21:11,03-05-2018 21:17,Business,Morrisville,Cary,2.2,
+04-05-2018 21:11,04-05-2018 21:17,Business,Cary,Apex,11.2,
+05-05-2018 21:11,05-05-2018 21:17,Business,Apex,Eagle Rock,2.2,
+06-05-2018 21:11,06-05-2018 21:17,Business,Eagle Rock,Cary,3.6,
+07-05-2018 21:11,07-05-2018 21:17,Business,Whitebridge,Savon Height,3.6,Meal/Entertain
+08-05-2018 21:11,08-05-2018 21:17,Business,Savon Height,Parkway,4.9,
+09-05-2018 21:11,09-05-2018 21:17,Business,Parkway,Whitebridge,8.7,Errand/Supplies
+10-05-2018 21:11,10-05-2018 21:17,Business,Whitebridge,Parkway,2.1,Meeting
+11-05-2018 21:11,11-05-2018 21:17,Business,Parkway,Whitebridge,2.1,
+12-05-2018 21:11,12-05-2018 21:17,Business,Cary,Morrisville,8.4,Meeting
+13-05-2018 21:11,13-05-2018 21:17,Business,Morrisville,Morrisville,5.9,
+14-05-2018 21:11,14-05-2018 21:17,Business,Huntington Woods,Huntington Woods,12.1,
+15-05-2018 21:11,15-05-2018 21:17,Business,Huntington Woods,Weston,3.9,
+16-05-2018 21:11,16-05-2018 21:17,Business,Morrisville,Cary,6.2,
+17-05-2018 21:11,17-05-2018 21:17,Business,Cary,Durham,10.4,Meeting
+18-05-2018 21:11,18-05-2018 21:17,Business,Durham,Cary,9.9,Meeting
+19-05-2018 21:11,19-05-2018 21:17,Business,Cary,Winston Salem,107,Meeting
+20-05-2018 21:11,20-05-2018 21:17,Business,Winston Salem,Asheville,133.6,Meeting
+21-05-2018 21:11,21-05-2018 21:17,Business,Asheville,Topton,91.8,Meeting
+22-05-2018 21:11,22-05-2018 21:17,Business,Topton,Hayesville,40.7,Meeting
+23-05-2018 21:11,23-05-2018 21:17,Business,Hayesville,Topton,75.7,
+24-05-2018 21:11,24-05-2018 21:17,Business,Topton,Bryson City,29.8,
+25-05-2018 21:11,25-05-2018 21:17,Business,Bryson City,Bryson City,16.3,
+26-05-2018 21:11,26-05-2018 21:17,Business,Bryson City,Bryson City,6.5,
+27-05-2018 21:11,27-05-2018 21:17,Business,Bryson City,Bryson City,6.3,
+28-05-2018 21:11,28-05-2018 21:17,Business,Bryson City,Almond,6.6,
+29-05-2018 21:11,29-05-2018 21:17,Business,Almond,Bryson City,15.2,
+30-05-2018 21:11,30-05-2018 21:17,Business,Bryson City,Asheville,68.4,
+31-05-2018 21:11,31-05-2018 21:17,Business,Asheville,Mebane,195.9,
+01-06-2018 21:11,01-06-2018 21:17,Business,Mebane,Cary,45.2,
+02-06-2018 21:11,02-06-2018 21:17,Business,Cary,Morrisville,3.2,
+03-06-2018 21:11,03-06-2018 21:17,Business,Morrisville,Raleigh,10.3,
+04-06-2018 21:11,04-06-2018 21:17,Business,Raleigh,Cary,13.1,
+05-06-2018 21:11,05-06-2018 21:17,Business,Savon Height,Whitebridge,9.6,Errand/Supplies
+06-06-2018 21:11,06-06-2018 21:17,Business,Cary,Durham,16.5,
+07-06-2018 21:11,07-06-2018 21:17,Business,Durham,Cary,12.8,
+08-06-2018 21:11,08-06-2018 21:17,Business,Whitebridge,Whitebridge,1.2,
+09-06-2018 21:11,09-06-2018 21:17,Business,Whitebridge,Whitebridge,1,
+10-06-2018 21:11,10-06-2018 21:17,Business,Whitebridge,Whitebridge,4.1,
+11-06-2018 21:11,11-06-2018 21:17,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain
+12-06-2018 21:11,12-06-2018 21:17,Business,Whitebridge,Westpark Place,1.4,
+13-06-2018 21:11,13-06-2018 21:17,Business,Westpark Place,Whitebridge,1.8,
+14-06-2018 21:11,14-06-2018 21:17,Business,Cary,Morrisville,8.5,Meeting
+15-06-2018 21:11,15-06-2018 21:17,Business,Morrisville,Morrisville,5,
+16-06-2018 21:11,16-06-2018 21:17,Business,Morrisville,Cary,3.8,
+17-06-2018 21:11,17-06-2018 21:17,Business,Whitebridge,Hazelwood,2.5,
+18-06-2018 21:11,18-06-2018 21:17,Business,Hazelwood,Whitebridge,2.4,
+19-06-2018 21:11,19-06-2018 21:17,Business,Whitebridge,Westpark Place,1.4,
+20-06-2018 21:11,20-06-2018 21:17,Business,Westpark Place,Whitebridge,1.8,
+21-06-2018 21:11,21-06-2018 21:17,Business,Cary,Morrisville,3.1,Meal/Entertain
+22-06-2018 21:11,22-06-2018 21:17,Business,Morrisville,Cary,3.1,Customer Visit
+23-06-2018 21:11,23-06-2018 21:17,Business,Cary,Morrisville,7.9,Temporary Site
+24-06-2018 21:11,24-06-2018 21:17,Business,San Jose,Santa Clara,3.8,
+25-06-2018 21:11,25-06-2018 21:17,Business,Agnew,Cory,4.3,
+26-06-2018 21:11,26-06-2018 21:17,Business,Cory,Agnew,3.9,
+27-06-2018 21:11,27-06-2018 21:17,Business,Agnew,Renaissance,2.2,
+28-06-2018 21:11,28-06-2018 21:17,Business,Renaissance,Agnew,2.8,
+29-06-2018 21:11,29-06-2018 21:17,Business,Agnew,Agnew,2.2,
+30-06-2018 21:11,30-06-2018 21:17,Business,Agnew,Renaissance,2.4,
+01-07-2018 21:11,01-07-2018 21:17,Business,Renaissance,Agnew,2.8,Meeting
+02-07-2018 21:11,02-07-2018 21:17,Business,Santa Clara,Berkeley,43.9,Customer Visit
+03-07-2018 21:11,03-07-2018 21:17,Business,Downtown,West Berkeley,1.8,
+04-07-2018 21:11,04-07-2018 21:17,Business,West Berkeley,Central,3.3,
+05-07-2018 21:11,05-07-2018 21:17,Business,Berkeley,San Francisco,11.8,Between Offices
+06-07-2018 21:11,06-07-2018 21:17,Business,San Francisco,Berkeley,13.2,Between Offices
+07-07-2018 21:11,07-07-2018 21:17,Business,Berkeley,San Francisco,12.2,Between Offices
+08-07-2018 21:11,08-07-2018 21:17,Business,San Francisco,Berkeley,11.3,Meeting
+09-07-2018 21:11,09-07-2018 21:17,Business,Berkeley,Emeryville,3.6,
+10-07-2018 21:11,10-07-2018 21:17,Business,Emeryville,Berkeley,3,
+11-07-2018 21:11,11-07-2018 21:17,Business,Berkeley,San Francisco,11.4,
+12-07-2018 21:11,12-07-2018 21:17,Business,NOMA,Downtown,0.9,
+13-07-2018 21:11,13-07-2018 21:17,Business,Downtown,Sunnyside,6.2,
+14-07-2018 21:11,14-07-2018 21:17,Business,Sunnyside,Ingleside,0.7,
+15-07-2018 21:11,15-07-2018 21:17,Business,Ingleside,Potrero Flats,5.5,Meeting
+16-07-2018 21:11,16-07-2018 21:17,Business,San Francisco,Oakland,12.7,Customer Visit
+17-07-2018 21:11,17-07-2018 21:17,Business,Oakland,Berkeley,2.6,
+18-07-2018 21:11,18-07-2018 21:17,Business,Central,Central,1.1,
+19-07-2018 21:11,19-07-2018 21:17,Business,Berkeley,San Francisco,12.6,Temporary Site
+20-07-2018 21:11,20-07-2018 21:17,Business,Tenderloin,SOMISSPO,1.2,
+21-07-2018 21:11,21-07-2018 21:17,Business,SOMISSPO,Tenderloin,1.1,
+22-07-2018 21:11,22-07-2018 21:17,Business,San Francisco,Oakland,9.9,Temporary Site
+23-07-2018 21:11,23-07-2018 21:17,Business,Oakland,Berkeley,6,Meeting
+24-07-2018 21:11,24-07-2018 21:17,Business,West Berkeley,Central,0.8,
+25-07-2018 21:11,25-07-2018 21:17,Business,Berkeley,Menlo Park,45.9,Customer Visit
+26-07-2018 21:11,26-07-2018 21:17,Business,Menlo Park,Palo Alto,4,
+27-07-2018 21:11,27-07-2018 21:17,Business,Palo Alto,Menlo Park,2.5,
+28-07-2018 21:11,28-07-2018 21:17,Business,Menlo Park,Berkeley,36.6,Customer Visit
+29-07-2018 21:11,29-07-2018 21:17,Business,Central,College Avenue,2.9,
+30-07-2018 21:11,30-07-2018 21:17,Business,College Avenue,Central,2.6,
+31-07-2018 21:11,31-07-2018 21:17,Business,Central,South,2.3,
+01-08-2018 21:11,01-08-2018 21:17,Business,South,Downtown,6.4,
+02-08-2018 21:11,02-08-2018 21:17,Business,Downtown,Central,1.4,
+03-08-2018 21:11,03-08-2018 21:17,Business,Central,West Berkeley,0.6,
+04-08-2018 21:11,04-08-2018 21:17,Business,West Berkeley,South,5.9,Meeting
+05-08-2018 21:11,05-08-2018 21:17,Business,South,Southwest Berkeley,0.8,
+06-08-2018 21:11,06-08-2018 21:17,Business,Berkeley,Emeryville,1.3,
+07-08-2018 21:11,07-08-2018 21:17,Business,Emeryville,Berkeley,3.7,Errand/Supplies
+08-08-2018 21:11,08-08-2018 21:17,Business,Central,Central,2.3,
+09-08-2018 21:11,09-08-2018 21:17,Business,Central,Central,2.6,
+10-08-2018 21:11,10-08-2018 21:17,Business,Central,Southside,1.9,
+11-08-2018 21:11,11-08-2018 21:17,Business,Southside,West Berkeley,2.1,
+12-08-2018 21:11,12-08-2018 21:17,Business,West Berkeley,Southside,4,Meeting
+13-08-2018 21:11,13-08-2018 21:17,Business,Southside,South Berkeley,0.9,
+14-08-2018 21:11,14-08-2018 21:17,Business,South Berkeley,Southside,0.9,
+15-08-2018 21:11,15-08-2018 21:17,Business,Southside,Central,2.4,
+16-08-2018 21:11,16-08-2018 21:17,Business,Central,Southside,1.9,
+17-08-2018 21:11,17-08-2018 21:17,Business,Southside,Central,1.9,
+18-08-2018 21:11,18-08-2018 21:17,Business,Berkeley,Mountain View,44.6,Customer Visit
+19-08-2018 21:11,19-08-2018 21:17,Business,Mountain View,Berkeley,43.6,Customer Visit
+20-08-2018 21:11,20-08-2018 21:17,Business,Berkeley,Emeryville,2.5,
+21-08-2018 21:11,21-08-2018 21:17,Business,Emeryville,Berkeley,3.7,Errand/Supplies
+22-08-2018 21:11,22-08-2018 21:17,Business,Berkeley,Oakland,5.1,
+23-08-2018 21:11,23-08-2018 21:17,Business,Oakland,San Francisco,9.7,Temporary Site
+24-08-2018 21:11,24-08-2018 21:17,Business,San Francisco,Berkeley,11.8,Temporary Site
+25-08-2018 21:11,25-08-2018 21:17,Business,Berkeley,El Cerrito,2.3,Temporary Site
+26-08-2018 21:11,26-08-2018 21:17,Business,El Cerrito,Berkeley,3.1,Meal/Entertain
+27-08-2018 21:11,27-08-2018 21:17,Business,Berkeley,Oakland,16.3,Customer Visit
+28-08-2018 21:11,28-08-2018 21:17,Business,Cary,Morrisville,3.1,Meal/Entertain
+29-08-2018 21:11,29-08-2018 21:17,Business,Morrisville,Cary,5.2,Meal/Entertain
+30-08-2018 21:11,30-08-2018 21:17,Business,Krendle Woods,Whitebridge,6.1,Meeting
+31-08-2018 21:11,31-08-2018 21:17,Business,Cary,Durham,10.3,Meeting
+01-09-2018 21:11,01-09-2018 21:17,Business,Durham,Cary,10.5,Meeting
+02-09-2018 21:11,02-09-2018 21:17,Business,Cary,Cary,1.5,
+03-09-2018 21:11,03-09-2018 21:17,Business,Cary,Cary,1.8,
+04-09-2018 21:11,04-09-2018 21:17,Business,Cary,Apex,5.4,Errand/Supplies
+05-09-2018 21:11,05-09-2018 21:17,Business,Apex,Cary,5.4,Customer Visit
+06-09-2018 21:11,06-09-2018 21:17,Business,Cary,Cary,39.2,Between Offices
+07-09-2018 21:11,07-09-2018 21:17,Business,Cary,Cary,6.4,Customer Visit
+08-09-2018 21:11,08-09-2018 21:17,Business,Cary,Cary,2.7,Meeting
+09-09-2018 21:11,09-09-2018 21:17,Business,Cary,Cary,18.5,Errand/Supplies
+10-09-2018 21:11,10-09-2018 21:17,Business,Cary,Cary,2.5,Meal/Entertain
+11-09-2018 21:11,11-09-2018 21:17,Business,Cary,Cary,2.1,Meal/Entertain
+12-09-2018 21:11,12-09-2018 21:17,Business,Cary,Unknown Location,6.7,Errand/Supplies
+13-09-2018 21:11,13-09-2018 21:17,Business,Unknown Location,Morrisville,3.5,Meal/Entertain
+14-09-2018 21:11,14-09-2018 21:17,Business,Morrisville,Cary,3.4,Errand/Supplies
+15-09-2018 21:11,15-09-2018 21:17,Business,Cary,Cary,5.5,Meeting
+16-09-2018 21:11,16-09-2018 21:17,Business,Cary,Cary,4.1,Meeting
+17-09-2018 21:11,17-09-2018 21:17,Business,Cary,Cary,12.7,Customer Visit
+18-09-2018 21:11,18-09-2018 21:17,Business,Cary,Morrisville,3,Meal/Entertain
+19-09-2018 21:11,19-09-2018 21:17,Business,Morrisville,Cary,3.5,Customer Visit
+20-09-2018 21:11,20-09-2018 21:17,Business,Cary,Cary,5.9,Meal/Entertain
+21-09-2018 21:11,21-09-2018 21:17,Business,Cary,Cary,1.9,
+22-09-2018 21:11,22-09-2018 21:17,Business,Cary,Cary,3.3,
+23-09-2018 21:11,23-09-2018 21:17,Business,Cary,Cary,1.3,
+24-09-2018 21:11,24-09-2018 21:17,Business,Cary,Durham,10.3,Meeting
+25-09-2018 21:11,25-09-2018 21:17,Business,Durham,Cary,11.1,Meeting
+26-09-2018 21:11,26-09-2018 21:17,Business,Cary,Cary,1.4,
+27-09-2018 21:11,27-09-2018 21:17,Business,Cary,Apex,5.1,Meeting
+28-09-2018 21:11,28-09-2018 21:17,Business,Apex,Holly Springs,9,Meeting
+29-09-2018 21:11,29-09-2018 21:17,Business,Holly Springs,Cary,13.3,Between Offices
+30-09-2018 21:11,30-09-2018 21:17,Business,Cary,Cary,2.5,Errand/Supplies
+01-10-2018 21:11,01-10-2018 21:17,Business,Cary,Morrisville,3.3,Meal/Entertain
+02-10-2018 21:11,02-10-2018 21:17,Business,Morrisville,Cary,2.9,
+03-10-2018 21:11,03-10-2018 21:17,Business,Cary,Raleigh,8.5,Customer Visit
+04-10-2018 21:11,04-10-2018 21:17,Business,Raleigh,Morrisville,6.7,Temporary Site
+05-10-2018 21:11,05-10-2018 21:17,Business,Morrisville,Cary,3.1,
+06-10-2018 21:11,06-10-2018 21:17,Business,Cary,Cary,5.5,Meeting
+07-10-2018 21:11,07-10-2018 21:17,Business,Cary,Cary,5.5,Errand/Supplies
+08-10-2018 21:11,08-10-2018 21:17,Business,Cary,Morrisville,2.9,Meal/Entertain
+09-10-2018 21:11,09-10-2018 21:17,Business,Morrisville,Cary,2.9,Customer Visit
+10-10-2018 21:11,10-10-2018 21:17,Business,Cary,Apex,5.1,Meal/Entertain
+11-10-2018 21:11,11-10-2018 21:17,Business,Apex,Cary,5.3,Customer Visit
+12-10-2018 21:11,12-10-2018 21:17,Business,Cary,Morrisville,3.3,Meal/Entertain
+13-10-2018 21:11,13-10-2018 21:17,Business,Morrisville,Cary,3,Customer Visit
+14-10-2018 21:11,14-10-2018 21:17,Business,Cary,Wake Co.,6.6,Errand/Supplies
+15-10-2018 21:11,15-10-2018 21:17,Business,Wake Co.,Morrisville,1.8,
+16-10-2018 21:11,16-10-2018 21:17,Business,Morrisville,Cary,3,Customer Visit
+17-10-2018 21:11,17-10-2018 21:17,Business,Cary,Morrisville,2.9,Meal/Entertain
+18-10-2018 21:11,18-10-2018 21:17,Business,Morrisville,Cary,3.4,Customer Visit
+19-10-2018 21:11,19-10-2018 21:17,Business,Cary,Cary,4.1,
+20-10-2018 21:11,20-10-2018 21:17,Business,Cary,Cary,3.8,Meal/Entertain
+21-10-2018 21:11,21-10-2018 21:17,Business,Cary,Cary,6.6,Meeting
+22-10-2018 21:11,22-10-2018 21:17,Business,Cary,Cary,4,Meeting
+23-10-2018 21:11,23-10-2018 21:17,Business,Cary,Cary,7,Customer Visit
+24-10-2018 21:11,24-10-2018 21:17,Business,Cary,Cary,6.9,Meal/Entertain
+25-10-2018 21:11,25-10-2018 21:17,Business,Cary,Cary,3.4,Errand/Supplies
+26-10-2018 21:11,26-10-2018 21:17,Business,Cary,Cary,3.4,Errand/Supplies
+27-10-2018 21:11,27-10-2018 21:17,Business,Cary,Cary,2,Meeting
+28-10-2018 21:11,28-10-2018 21:17,Business,Cary,Cary,2,Errand/Supplies
+29-10-2018 21:11,29-10-2018 21:17,Business,Cary,Apex,5.1,Errand/Supplies
+30-10-2018 21:11,30-10-2018 21:17,Business,Apex,Cary,8.8,Temporary Site
+31-10-2018 21:11,31-10-2018 21:17,Business,Cary,Cary,5.6,Meeting
+01-11-2018 21:11,01-11-2018 21:17,Business,Cary,Cary,18.9,Customer Visit
+02-11-2018 21:11,02-11-2018 21:17,Business,Cary,Fuquay-Varina,15.6,Meeting
+03-11-2018 21:11,03-11-2018 21:17,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies
+04-11-2018 21:11,04-11-2018 21:17,Business,Cary,Morrisville,3,Meal/Entertain
+05-11-2018 21:11,05-11-2018 21:17,Business,Morrisville,Cary,3.1,Customer Visit
+06-11-2018 21:11,06-11-2018 21:17,Business,Cary,Morrisville,3,Meal/Entertain
+07-11-2018 21:11,07-11-2018 21:17,Business,Morrisville,Cary,4.8,Errand/Supplies
+08-11-2018 21:11,08-11-2018 21:17,Business,Cary,Cary,2.1,Errand/Supplies
+09-11-2018 21:11,09-11-2018 21:17,Business,Cary,Cary,3.1,Errand/Supplies
+10-11-2018 21:11,10-11-2018 21:17,Business,Cary,Apex,4.4,Meal/Entertain
+11-11-2018 21:11,11-11-2018 21:17,Business,Apex,Cary,4.7,Customer Visit
+12-11-2018 21:11,12-11-2018 21:17,Business,Cary,Morrisville,3,Meal/Entertain
+13-11-2018 21:11,13-11-2018 21:17,Business,Morrisville,Cary,3,Customer Visit
+14-11-2018 21:11,14-11-2018 21:17,Business,Cary,Cary,4.2,Errand/Supplies
+15-11-2018 21:11,15-11-2018 21:17,Business,Cary,Cary,4.1,Meal/Entertain
+16-11-2018 21:11,16-11-2018 21:17,Business,Cary,Cary,3.4,
+17-11-2018 21:11,17-11-2018 21:17,Business,Cary,Cary,3.3,
+18-11-2018 21:11,18-11-2018 21:17,Business,Cary,Morrisville,3,Meal/Entertain
+19-11-2018 21:11,19-11-2018 21:17,Business,Morrisville,Cary,3.1,Customer Visit
+20-11-2018 21:11,20-11-2018 21:17,Business,Cary,Morrisville,10.6,Meeting
+21-11-2018 21:11,21-11-2018 21:17,Business,Unknown Location,Unknown Location,4.8,Airport/Travel
+22-11-2018 21:11,22-11-2018 21:17,Business,Unknown Location,Unknown Location,5.3,Temporary Site
+23-11-2018 21:11,23-11-2018 21:17,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies
+24-11-2018 21:11,24-11-2018 21:17,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies
+25-11-2018 21:11,25-11-2018 21:17,Business,Unknown Location,Unknown Location,9.2,
+26-11-2018 21:11,26-11-2018 21:17,Business,Unknown Location,Islamabad,7.7,Errand/Supplies
+27-11-2018 21:11,27-11-2018 21:17,Business,Islamabad,Rawalpindi,5.9,Temporary Site
+28-11-2018 21:11,28-11-2018 21:17,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies
+29-11-2018 21:11,29-11-2018 21:17,Business,Unknown Location,Unknown Location,1.3,
+30-11-2018 21:11,30-11-2018 21:17,Business,Unknown Location,Unknown Location,2.5,
+01-12-2018 21:11,01-12-2018 21:17,Business,Unknown Location,Unknown Location,5.3,
+02-12-2018 21:11,02-12-2018 21:17,Business,Unknown Location,Unknown Location,5.4,
+03-12-2018 21:11,03-12-2018 21:17,Business,Unknown Location,Rawalpindi,10.2,Customer Visit
+04-12-2018 21:11,04-12-2018 21:17,Business,Rawalpindi,Islamabad,7.2,Customer Visit
+05-12-2018 21:11,05-12-2018 21:17,Business,Islamabad,Unknown Location,2.2,
+06-12-2018 21:11,06-12-2018 21:17,Business,Unknown Location,Unknown Location,11,Meeting
+07-12-2018 21:11,07-12-2018 21:17,Business,Unknown Location,Rawalpindi,12,
+08-12-2018 21:11,08-12-2018 21:17,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies
+09-12-2018 21:11,09-12-2018 21:17,Business,Rawalpindi,Unknown Location,19.4,Meeting
+10-12-2018 21:11,10-12-2018 21:17,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies
+11-12-2018 21:11,11-12-2018 21:17,Business,Unknown Location,Islamabad,5.7,Temporary Site
+12-12-2018 21:11,12-12-2018 21:17,Business,Islamabad,Islamabad,1.8,Errand/Supplies
+13-12-2018 21:11,13-12-2018 21:17,Business,Islamabad,Islamabad,1.4,Errand/Supplies
+14-12-2018 21:11,14-12-2018 21:17,Business,Islamabad,Unknown Location,10.3,Customer Visit
+15-12-2018 21:11,15-12-2018 21:17,Business,Unknown Location,Unknown Location,11.5,Meeting
+16-12-2018 21:11,16-12-2018 21:17,Business,Unknown Location,Islamabad,4.9,Errand/Supplies
+17-12-2018 21:11,17-12-2018 21:17,Business,Islamabad,Unknown Location,3.5,Meal/Entertain
+18-12-2018 21:11,18-12-2018 21:17,Business,Unknown Location,Unknown Location,16.2,Meeting
+19-12-2018 21:11,19-12-2018 21:17,Business,Unknown Location,Unknown Location,2,Errand/Supplies
+20-12-2018 21:11,20-12-2018 21:17,Business,Unknown Location,Islamabad,2.1,Errand/Supplies
+21-12-2018 21:11,21-12-2018 21:17,Business,Islamabad,Islamabad,2.1,Meeting
+22-12-2018 21:11,22-12-2018 21:17,Business,Islamabad,Unknown Location,7.2,Customer Visit
+23-12-2018 21:11,23-12-2018 21:17,Business,Unknown Location,Rawalpindi,12,Meeting
+24-12-2018 21:11,24-12-2018 21:17,Business,Rawalpindi,Unknown Location,103,Meeting
+25-12-2018 21:11,25-12-2018 21:17,Business,Unknown Location,Unknown Location,32.3,Meeting
+26-12-2018 21:11,26-12-2018 21:17,Business,Unknown Location,Unknown Location,5.3,Customer Visit
+27-12-2018 21:11,27-12-2018 21:17,Business,Unknown Location,Unknown Location,11.6,Meeting
+28-12-2018 21:11,28-12-2018 21:17,Business,Unknown Location,Unknown Location,23.2,Meeting
+29-12-2018 21:11,29-12-2018 21:17,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
+30-12-2018 21:11,30-12-2018 21:17,Business,Unknown Location,Unknown Location,12.3,Temporary Site
+31-12-2018 21:11,31-12-2018 21:17,Business,Unknown Location,Lahore,14,Meeting
+01-01-2019 21:11,01-01-2019 21:17,Business,Lahore,Lahore,2.1,Meal/Entertain
+02-01-2019 21:11,02-01-2019 21:17,Business,Lahore,Lahore,2.1,Customer Visit
+03-01-2019 21:11,03-01-2019 21:17,Business,Lahore,Lahore,3,Meeting
+04-01-2019 21:11,04-01-2019 21:17,Business,Lahore,Unknown Location,6.2,Meeting
+05-01-2019 21:11,05-01-2019 21:17,Business,Unknown Location,Unknown Location,9.6,Meeting
+06-01-2019 21:11,06-01-2019 21:17,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies
+07-01-2019 21:11,07-01-2019 21:17,Business,Unknown Location,Lahore,7.1,Meal/Entertain
+08-01-2019 21:11,08-01-2019 21:17,Business,Lahore,Unknown Location,6.3,Meal/Entertain
+09-01-2019 21:11,09-01-2019 21:17,Business,Unknown Location,Lahore,10.7,Meal/Entertain
+10-01-2019 21:11,10-01-2019 21:17,Business,Lahore,Lahore,5.3,Meal/Entertain
+11-01-2019 21:11,11-01-2019 21:17,Business,Lahore,Lahore,1.6,Errand/Supplies
+12-01-2019 21:11,12-01-2019 21:17,Business,Lahore,Lahore,3.6,Errand/Supplies
+13-01-2019 21:11,13-01-2019 21:17,Business,Lahore,Lahore,1.7,Errand/Supplies
+14-01-2019 21:11,14-01-2019 21:17,Business,Lahore,Lahore,2.9,Meal/Entertain
+15-01-2019 21:11,15-01-2019 21:17,Business,Lahore,Lahore,0.6,Errand/Supplies
+16-01-2019 21:11,16-01-2019 21:17,Business,Lahore,Lahore,0.6,Errand/Supplies
+17-01-2019 21:11,17-01-2019 21:17,Business,Lahore,Lahore,2.3,Meal/Entertain
+18-01-2019 21:11,18-01-2019 21:17,Business,Lahore,Lahore,2.3,Meal/Entertain
+19-01-2019 21:11,19-01-2019 21:17,Business,Lahore,Lahore,3.2,Meal/Entertain
+20-01-2019 21:11,20-01-2019 21:17,Business,Lahore,Lahore,6.2,Customer Visit
+21-01-2019 21:11,21-01-2019 21:17,Business,Lahore,Lahore,7.7,Customer Visit
+22-01-2019 21:11,22-01-2019 21:17,Business,Lahore,Lahore,3.8,Customer Visit
+23-01-2019 21:11,23-01-2019 21:17,Business,Lahore,Unknown Location,7.9,Meeting
+24-01-2019 21:11,24-01-2019 21:17,Business,Kar?chi,Kar?chi,4.9,Temporary Site
+25-01-2019 21:11,25-01-2019 21:17,Business,Kar?chi,Kar?chi,5,Meal/Entertain
+26-01-2019 21:11,26-01-2019 21:17,Business,Kar?chi,Kar?chi,0.6,Meal/Entertain
+27-01-2019 21:11,27-01-2019 21:17,Business,Kar?chi,Unknown Location,3.1,Customer Visit
+28-01-2019 21:11,28-01-2019 21:17,Business,Unknown Location,Kar?chi,7.9,Meeting
+29-01-2019 21:11,29-01-2019 21:17,Business,Kar?chi,Kar?chi,5.5,Customer Visit
+30-01-2019 21:11,30-01-2019 21:17,Business,Kar?chi,Unknown Location,10.3,Meal/Entertain
+31-01-2019 21:11,31-01-2019 21:17,Business,Unknown Location,Kar?chi,10.4,Errand/Supplies
+01-02-2019 21:11,01-02-2019 21:17,Business,Kar?chi,Kar?chi,2,Errand/Supplies
+02-02-2019 21:11,02-02-2019 21:17,Business,Kar?chi,Unknown Location,8.5,Meal/Entertain
+03-02-2019 21:11,03-02-2019 21:17,Business,Unknown Location,Kar?chi,4.4,Errand/Supplies
+04-02-2019 21:11,04-02-2019 21:17,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies
+05-02-2019 21:11,05-02-2019 21:17,Business,Kar?chi,Kar?chi,5.1,Errand/Supplies
+06-02-2019 21:11,06-02-2019 21:17,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies
+07-02-2019 21:11,07-02-2019 21:17,Business,Kar?chi,Unknown Location,11.6,Meal/Entertain
+08-02-2019 21:11,08-02-2019 21:17,Business,Unknown Location,Kar?chi,11.9,Meal/Entertain
+09-02-2019 21:11,09-02-2019 21:17,Business,Kar?chi,Kar?chi,1.4,Errand/Supplies
+10-02-2019 21:11,10-02-2019 21:17,Business,Kar?chi,Kar?chi,1.1,Errand/Supplies
+11-02-2019 21:11,11-02-2019 21:17,Business,Kar?chi,Kar?chi,4.1,Airport/Travel
+12-02-2019 21:11,12-02-2019 21:17,Business,Kar?chi,Kar?chi,6.1,Between Offices
+13-02-2019 21:11,13-02-2019 21:17,Business,Kar?chi,Kar?chi,1.3,Errand/Supplies
+14-02-2019 21:11,14-02-2019 21:17,Business,Kar?chi,Unknown Location,3,Meal/Entertain
+15-02-2019 21:11,15-02-2019 21:17,Business,Unknown Location,Kar?chi,4.1,Customer Visit
+16-02-2019 21:11,16-02-2019 21:17,Business,Kar?chi,Kar?chi,7.2,Meeting
+17-02-2019 21:11,17-02-2019 21:17,Business,Kar?chi,Unknown Location,6.4,
+18-02-2019 21:11,18-02-2019 21:17,Business,Unknown Location,Kar?chi,12.9,Meeting
+19-02-2019 21:11,19-02-2019 21:17,Business,Kar?chi,Kar?chi,2.8,Errand/Supplies
+20-02-2019 21:11,20-02-2019 21:17,Business,Kar?chi,Kar?chi,2.9,Errand/Supplies
+21-02-2019 21:11,21-02-2019 21:17,Business,Kar?chi,Kar?chi,4.6,Errand/Supplies
+22-02-2019 21:11,22-02-2019 21:17,Business,Kar?chi,Kar?chi,4.6,Meeting
+23-02-2019 21:11,23-02-2019 21:17,Business,Kar?chi,Kar?chi,0.8,Customer Visit
+24-02-2019 21:11,24-02-2019 21:17,Business,Kar?chi,Kar?chi,0.7,Meeting
+25-02-2019 21:11,25-02-2019 21:17,Business,Kar?chi,Unknown Location,3.9,Temporary Site
+26-02-2019 21:11,26-02-2019 21:17,Business,Unknown Location,Unknown Location,16.2,Meeting
+27-02-2019 21:11,27-02-2019 21:17,Business,Katunayake,Gampaha,6.4,Temporary Site
+28-02-2019 21:11,28-02-2019 21:17,Business,Gampaha,Ilukwatta,48.2,Temporary Site
